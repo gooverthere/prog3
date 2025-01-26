@@ -1,0 +1,369 @@
+word = earl
+earl/el = ar
+earl/er = al
+earl/al = er
+earl/ar = el
+
+word = earla
+earla/el = ara
+earla/er = ala
+earla/al = era
+earla/era = al
+earla/ala = er
+earla/ara = el
+
+word = earlach
+earlach/el = arach
+earlach/er = alach
+earlach/al = erach
+earlach/earl = ach
+earlach/erach = al
+earlach/alach = er
+earlach/arach = el
+
+word = earlami
+earlami/mi = earla
+earlami/el = arami
+earlami/er = alami
+earlami/al = erami
+earlami/earla = mi
+earlami/erami = al
+earlami/alami = er
+earlami/arami = el
+
+word = earle
+earle/er = ale
+earle/ale = er
+
+word = earlem
+earlem/el = arem
+earlem/al = erem
+earlem/earl = em
+earlem/erem = al
+earlem/arem = el
+
+word = earli
+earli/er = ali
+earli/ali = er
+
+word = earlom
+earlom/om = earl
+earlom/el = arom
+earlom/er = alom
+earlom/al = erom
+earlom/earl = om
+earlom/erom = al
+earlom/alom = er
+earlom/arom = el
+
+word = earlowi
+earlowi/el = arowi
+earlowi/owi = earl
+earlowi/earl = owi
+earlowi/arowi = el
+
+word = earlowie
+earlowie/owe = earli
+earlowie/owi = earle
+earlowie/earle = owi
+earlowie/earli = owe
+
+word = earlów
+earlów/ów = earl
+earlów/el = arów
+earlów/earl = ów
+earlów/arów = el
+
+word = earlu
+NO MATCHES
+
+word = eastern
+eastern/en = aster
+eastern/aster = en
+
+word = easternach
+easternach/eastern = ach
+
+word = easternami
+NO MATCHES
+
+word = easternem
+easternem/enem = aster
+easternem/aster = enem
+easternem/eastern = em
+
+word = easternie
+easternie/er = astenie
+easternie/astenie = er
+
+word = easternom
+easternom/om = eastern
+easternom/eastern = om
+
+word = easternowi
+easternowi/owi = eastern
+easternowi/eastern = owi
+
+word = easternów
+easternów/ów = eastern
+easternów/eastern = ów
+
+word = easternu
+NO MATCHES
+
+word = easterny
+NO MATCHES
+
+word = ebenista
+NO MATCHES
+
+word = ebenistach
+NO MATCHES
+
+word = ebenistami
+ebenistami/mi = ebenista
+ebenistami/ebenista = mi
+
+word = ebenistą
+NO MATCHES
+
+word = ebenisteria
+NO MATCHES
+
+word = ebenisteriach
+NO MATCHES
+
+word = ebenisteriami
+ebenisteriami/mi = ebenisteria
+ebenisteriami/ebenisteria = mi
+
+word = ebenisterią
+NO MATCHES
+
+word = ebenisterie
+NO MATCHES
+
+word = ebenisterię
+NO MATCHES
+
+word = ebenisterii
+NO MATCHES
+
+word = ebenisterio
+NO MATCHES
+
+word = ebenisteriom
+NO MATCHES
+
+word = ebenisteryj
+NO MATCHES
+
+word = ebenistę
+NO MATCHES
+
+word = ebenisto
+NO MATCHES
+
+word = ebenistom
+NO MATCHES
+
+word = ebenistów
+NO MATCHES
+
+word = ebenisty
+NO MATCHES
+
+word = ebeniści
+NO MATCHES
+
+word = ebeniście
+NO MATCHES
+
+word = ebionici
+ebionici/eoni = bici
+ebionici/bici = eoni
+
+word = ebionicie
+ebionicie/eoni = bicie
+ebionicie/bici = eonie
+ebionicie/eonie = bici
+ebionicie/bicie = eoni
+
+word = ebionita
+ebionita/eoni = bita
+ebionita/bita = eoni
+
+word = ebionitach
+ebionitach/eoni = bitach
+ebionitach/bitach = eoni
+
+word = ebionitami
+ebionitami/mi = ebionita
+ebionitami/eoni = bitami
+ebionitami/bitami = eoni
+ebionitami/ebionita = mi
+
+word = ebionitą
+ebionitą/eoni = bitą
+ebionitą/bitą = eoni
+
+word = ebionitę
+NO MATCHES
+
+word = ebionito
+ebionito/eoni = bito
+ebionito/bito = eoni
+
+word = ebionitom
+ebionitom/eoni = bitom
+ebionitom/bitom = eoni
+
+word = ebionitów
+ebionitów/eoni = bitów
+ebionitów/bitów = eoni
+
+word = ebionity
+ebionity/eoni = bity
+ebionity/bity = eoni
+
+word = eblis
+eblis/el = bis
+eblis/bis = el
+
+word = eblisa
+NO MATCHES
+
+word = eblisach
+eblisach/el = bisach
+eblisach/eis = blach
+eblisach/ach = eblis
+eblisach/eblis = ach
+eblisach/blach = eis
+eblisach/bisach = el
+
+word = eblisami
+eblisami/mi = eblisa
+eblisami/el = bisami
+eblisami/eblisa = mi
+eblisami/bisami = el
+
+word = eblisem
+eblisem/el = bisem
+eblisem/eblis = em
+eblisem/bisem = el
+
+word = eblisie
+eblisie/el = bisie
+eblisie/bisie = el
+
+word = eblisom
+eblisom/om = eblis
+eblisom/el = bisom
+eblisom/eblis = om
+eblisom/bisom = el
+
+word = eblisowi
+eblisowi/el = bisowi
+eblisowi/owi = eblis
+eblisowi/eblis = owi
+eblisowi/bisowi = el
+
+word = eblisów
+eblisów/ów = eblis
+eblisów/el = bisów
+eblisów/eblis = ów
+eblisów/bisów = el
+
+word = eblisy
+eblisy/el = bisy
+eblisy/bisy = el
+
+word = ebol
+ebol/el = bo
+ebol/bo = el
+
+word = ebola
+ebola/el = boa
+ebola/boa = el
+
+word = ebolach
+ebolach/eo = blach
+ebolach/ech = bola
+ebolach/ach = ebol
+ebolach/ebol = ach
+ebolach/bola = ech
+ebolach/blach = eo
+
+word = ebolami
+ebolami/mi = ebola
+ebolami/ebola = mi
+
+word = ebolą
+NO MATCHES
+
+word = ebole
+ebole/ee = bol
+ebole/eo = ble
+ebole/ble = eo
+ebole/bol = ee
+
+word = ebolę
+NO MATCHES
+
+word = eboli
+eboli/el = boi
+eboli/boi = el
+
+word = ebolo
+ebolo/bol = eo
+
+word = ebolom
+ebolom/el = boom
+ebolom/em = bolo
+ebolom/ebol = om
+ebolom/bolo = em
+ebolom/boom = el
+
+word = ebonicie
+ebonicie/en = boicie
+ebonicie/eon = bicie
+ebonicie/ecie = boni
+ebonicie/boni = ecie
+ebonicie/bicie = eon
+ebonicie/boicie = en
+
+word = ebonik
+NO MATCHES
+
+word = ebonikach
+ebonikach/ach = ebonik
+ebonikach/ebonik = ach
+
+word = ebonikami
+NO MATCHES
+
+word = eboniki
+NO MATCHES
+
+word = ebonikiem
+ebonikiem/eboniki = em
+
+word = ebonikom
+ebonikom/ebonik = om
+
+word = ebonikowi
+ebonikowi/ebonik = owi
+
+word = eboników
+eboników/ów = ebonik
+eboników/ebonik = ów
+
+word = eboniku
+NO MATCHES
+
+word = ebonit
+ebonit/et = boni
+ebonit/eon = bit
+ebonit/bit = eon
+ebonit/boni = et
+

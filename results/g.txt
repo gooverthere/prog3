@@ -1,0 +1,226 @@
+word = gabardyn
+gabardyn/ba = gardyn
+gabardyn/gan = bardy
+gabardyn/ban = gardy
+gabardyn/gady = barn
+gabardyn/garn = bady
+gabardyn/bady = garn
+gabardyn/barn = gady
+gabardyn/gardy = ban
+gabardyn/bardy = gan
+gabardyn/gardyn = ba
+
+word = gabardyna
+gabardyna/ba = gardyna
+gabardyna/gana = bardy
+gabardyna/bady = garna
+gabardyna/bana = gardy
+gabardyna/gardy = bana
+gabardyna/garna = bady
+gabardyna/bardy = gana
+gabardyna/gardyna = ba
+
+word = gabardynach
+gabardynach/ba = gardynach
+gabardynach/gady = barnach
+gabardynach/bach = gardyna
+gabardynach/bady = garnach
+gabardynach/gardy = banach
+gabardynach/bardy = ganach
+gabardynach/ganach = bardy
+gabardynach/banach = gardy
+gabardynach/gardyna = bach
+gabardynach/garnach = bady
+gabardynach/barnach = gady
+gabardynach/gabardyn = ach
+gabardynach/gardynach = ba
+
+word = gabardynami
+gabardynami/mi = gabardyna
+gabardynami/ba = gardynami
+gabardynami/gady = barnami
+gabardynami/bady = garnami
+gabardynami/gardy = banami
+gabardynami/bardy = ganami
+gabardynami/ganami = bardy
+gabardynami/banami = gardy
+gabardynami/garnami = bady
+gabardynami/barnami = gady
+gabardynami/gabardyna = mi
+gabardynami/gardynami = ba
+
+word = gabardyną
+gabardyną/ba = gardyną
+gabardyną/bady = garną
+gabardyną/garną = bady
+gabardyną/gardyną = ba
+
+word = gabardynę
+gabardynę/ba = gardynę
+gabardynę/bady = garnę
+gabardynę/garnę = bady
+gabardynę/gardynę = ba
+
+word = gabardynie
+gabardynie/ba = gardynie
+gabardynie/gady = barnie
+gabardynie/bady = garnie
+gabardynie/ganie = bardy
+gabardynie/gardy = banie
+gabardynie/banie = gardy
+gabardynie/bardy = ganie
+gabardynie/garnie = bady
+gabardynie/barnie = gady
+gabardynie/gardynie = ba
+
+word = gabardyno
+gabardyno/ba = gardyno
+gabardyno/abo = gardyn
+gabardyno/bady = garno
+gabardyno/bano = gardy
+gabardyno/gardy = bano
+gabardyno/garno = bady
+gabardyno/gardyno = ba
+
+word = gabardynom
+gabardynom/om = gabardyn
+gabardynom/ba = gardynom
+gabardynom/bam = gardyno
+gabardynom/gady = barnom
+gabardynom/bady = garnom
+gabardynom/ganom = bardy
+gabardynom/gardy = banom
+gabardynom/banom = gardy
+gabardynom/bardy = ganom
+gabardynom/garnom = bady
+gabardynom/barnom = gady
+gabardynom/gardyno = bam
+gabardynom/gabardyn = om
+gabardynom/gardynom = ba
+
+word = gabardynowa
+gabardynowa/owa = gabardyn
+gabardynowa/gabardyn = owa
+
+word = gabardynową
+gabardynową/ową = gabardyn
+gabardynową/gabardyn = ową
+
+word = gabardynowe
+gabardynowe/we = gabardyno
+gabardynowe/owe = gabardyn
+gabardynowe/gabardyn = owe
+gabardynowe/gabardyno = we
+
+word = gabardynowego
+gabardynowego/owego = gabardyn
+gabardynowego/gabardyn = owego
+gabardynowego/gabardynowe = go
+
+word = gabardynowej
+gabardynowej/owej = gabardyn
+gabardynowej/gabardyn = owej
+
+word = gabardynowemu
+gabardynowemu/mu = gabardynowe
+gabardynowemu/owemu = gabardyn
+gabardynowemu/gabardyn = owemu
+gabardynowemu/gabardynowe = mu
+
+word = gabardynowi
+gabardynowi/owi = gabardyn
+gabardynowi/gady = barnowi
+gabardynowi/bawi = gardyno
+gabardynowi/gardy = banowi
+gabardynowi/bardy = ganowi
+gabardynowi/ganowi = bardy
+gabardynowi/banowi = gardy
+gabardynowi/gardyno = bawi
+gabardynowi/barnowi = gady
+gabardynowi/gabardyn = owi
+
+word = gabardynowy
+gabardynowy/wy = gabardyno
+gabardynowy/gabardyno = wy
+
+word = gabardynowych
+gabardynowych/owych = gabardyn
+gabardynowych/gabardyn = owych
+
+word = gabardynowym
+gabardynowym/wy = gabardynom
+gabardynowym/owym = gabardyn
+gabardynowym/gabardyn = owym
+gabardynowym/gabardynom = wy
+
+word = gabardynowymi
+gabardynowymi/mi = gabardynowy
+gabardynowymi/owymi = gabardyn
+gabardynowymi/gabardyn = owymi
+gabardynowymi/gabardynowy = mi
+
+word = gabardyny
+gabardyny/ba = gardyny
+gabardyny/gady = barny
+gabardyny/gany = bardy
+gabardyny/bady = garny
+gabardyny/bany = gardy
+gabardyny/gardy = bany
+gabardyny/garny = bady
+gabardyny/bardy = gany
+gabardyny/barny = gady
+gabardyny/gardyny = ba
+
+word = gabarycie
+gabarycie/gay = barcie
+gabarycie/gry = abacie
+gabarycie/gary = bacie
+gabarycie/gaye = barci
+gabarycie/bary = gacie
+gabarycie/gacie = bary
+gabarycie/bacie = gary
+gabarycie/barci = gaye
+gabarycie/barcie = gay
+gabarycie/abacie = gry
+
+word = gabaryt
+gabaryt/gay = bart
+gabaryt/gry = abat
+gabaryt/bat = gary
+gabaryt/gary = bat
+gabaryt/bart = gay
+gabaryt/abat = gry
+
+word = gabarytach
+gabarytach/gay = bartach
+gabarytach/gry = abatach
+gabarytach/gary = batach
+gabarytach/bart = gayach
+gabarytach/gayach = bart
+gabarytach/batach = gary
+gabarytach/gabaryt = ach
+gabarytach/bartach = gay
+gabarytach/abatach = gry
+
+word = gabarytami
+gabarytami/gay = bartami
+gabarytami/gry = abatami
+gabarytami/gary = batami
+gabarytami/bart = gayami
+gabarytami/gayami = bart
+gabarytami/batami = gary
+gabarytami/bartami = gay
+gabarytami/abatami = gry
+
+word = gabarytem
+gabarytem/em = gabaryt
+gabarytem/gry = abatem
+gabarytem/gary = batem
+gabarytem/bart = gayem
+gabarytem/gayem = bart
+gabarytem/batem = gary
+gabarytem/abatem = gry
+gabarytem/gabaryt = em
+
+word = gabarytom
+gabarytom/om = gabaryt

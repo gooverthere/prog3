@@ -1,0 +1,371 @@
+word = da
+NO MATCHES
+
+word = dabecja
+NO MATCHES
+
+word = dabecjach
+NO MATCHES
+
+word = dabecjami
+dabecjami/mi = dabecja
+dabecjami/dabecja = mi
+
+word = dabecją
+NO MATCHES
+
+word = dabecje
+dabecje/daj = bece
+dabecje/bece = daj
+
+word = dabecję
+NO MATCHES
+
+word = dabecji
+NO MATCHES
+
+word = dabecjo
+NO MATCHES
+
+word = dabecjom
+NO MATCHES
+
+word = dabecyj
+NO MATCHES
+
+word = daboi
+daboi/da = boi
+daboi/bi = dao
+daboi/dao = bi
+daboi/boi = da
+
+word = daboja
+daboja/da = boja
+daboja/daj = boa
+daboja/boa = daj
+daboja/boja = da
+
+word = dabojach
+dabojach/da = bojach
+dabojach/dach = boja
+dabojach/boja = dach
+dabojach/bojach = da
+
+word = dabojami
+dabojami/mi = daboja
+dabojami/da = bojami
+dabojami/jam = daboi
+dabojami/daboi = jam
+dabojami/daboja = mi
+dabojami/bojami = da
+
+word = daboją
+daboją/da = boją
+daboją/bo = dają
+daboją/dają = bo
+daboją/boją = da
+
+word = daboje
+daboje/da = boje
+daboje/bo = daje
+daboje/daje = bo
+daboje/boje = da
+
+word = daboję
+daboję/da = boję
+daboję/bo = daję
+daboję/daję = bo
+daboję/boję = da
+
+word = dabojo
+dabojo/da = bojo
+dabojo/boj = dao
+dabojo/bojo = da
+
+word = dabojom
+dabojom/da = bojom
+dabojom/daj = boom
+dabojom/dam = bojo
+dabojom/bojo = dam
+dabojom/boom = daj
+dabojom/bojom = da
+
+word = dach
+NO MATCHES
+
+word = dachach
+dachach/da = chach
+dachach/cha = dach
+dachach/ach = dach
+dachach/dach = ach
+dachach/chach = da
+
+word = dachami
+NO MATCHES
+
+word = dacharz
+dacharz/cha = darz
+dacharz/ach = darz
+dacharz/darz = cha
+
+word = dacharza
+NO MATCHES
+
+word = dacharzach
+dacharzach/dacharz = ach
+
+word = dacharzami
+dacharzami/mi = dacharza
+dacharzami/dacharza = mi
+
+word = dacharze
+dacharze/da = charze
+dacharze/cha = darze
+dacharze/ach = darze
+dacharze/dach = arze
+dacharze/drze = acha
+dacharze/acha = drze
+dacharze/darze = cha
+dacharze/charze = da
+
+word = dacharzem
+dacharzem/em = dacharz
+dacharzem/dam = charze
+dacharzem/dacz = harem
+dacharzem/drze = acham
+dacharzem/cham = darze
+dacharzem/acha = drzem
+dacharzem/harem = dacz
+dacharzem/darze = cham
+dacharzem/drzem = acha
+dacharzem/acham = drze
+dacharzem/charze = dam
+dacharzem/dacharz = em
+
+word = dacharzom
+dacharzom/om = dacharz
+dacharzom/achom = darz
+dacharzom/dacharz = om
+
+word = dacharzowi
+dacharzowi/owi = dacharz
+dacharzowi/dacharz = owi
+
+word = dacharzów
+dacharzów/ów = dacharz
+dacharzów/dacz = harów
+dacharzów/harów = dacz
+dacharzów/achów = darz
+dacharzów/dacharz = ów
+
+word = dacharzu
+NO MATCHES
+
+word = dacharzy
+dacharzy/cha = darzy
+dacharzy/ach = darzy
+dacharzy/achy = darz
+dacharzy/darzy = cha
+
+word = dachem
+dachem/em = dach
+dachem/dam = che
+dachem/dem = ach
+dachem/che = dam
+dachem/ach = dem
+dachem/dach = em
+
+word = dacholea
+dacholea/olea = dach
+dacholea/dach = olea
+dacholea/dole = acha
+dacholea/acha = dole
+
+word = dacholeach
+dacholeach/ole = dachach
+dacholeach/dach = oleach
+dacholeach/dole = achach
+dacholeach/oleach = dach
+dacholeach/achach = dole
+dacholeach/dachach = ole
+
+word = dacholeami
+dacholeami/mi = dacholea
+dacholeami/ole = dachami
+dacholeami/dach = oleami
+dacholeami/dole = achami
+dacholeami/oleami = dach
+dacholeami/achami = dole
+dacholeami/dachami = ole
+dacholeami/dacholea = mi
+
+word = dacholeom
+dacholeom/ole = dachom
+dacholeom/dach = oleom
+dacholeom/dole = achom
+dacholeom/oleom = dach
+
+word = dacholeów
+dacholeów/ole = dachów
+dacholeów/dach = oleów
+dacholeów/dole = achów
+dacholeów/oleów = dach
+dacholeów/achów = dole
+dacholeów/dachów = ole
+
+word = dacholeum
+dacholeum/leu = dachom
+dacholeum/dach = oleum
+dacholeum/oleum = dach
+dacholeum/dachom = leu
+
+word = dachom
+dachom/om = dach
+dachom/dom = ach
+dachom/ach = dom
+dachom/dach = om
+
+word = dachowa
+dachowa/da = chowa
+dachowa/owa = dach
+dachowa/dach = owa
+dachowa/chowa = da
+
+word = dachować
+dachować/da = chować
+dachować/dać = chowa
+dachować/dao = chwać
+dachować/chowa = dać
+dachować/chwać = dao
+dachować/chować = da
+
+word = dachowali
+dachowali/li = dachowa
+dachowali/da = chowali
+dachowali/dao = chwali
+dachowali/ach = dowali
+dachowali/dach = owali
+dachowali/dali = chowa
+dachowali/owali = dach
+dachowali/chowa = dali
+dachowali/dowali = ach
+dachowali/chwali = dao
+dachowali/dachowa = li
+dachowali/dachowi = al
+dachowali/chowali = da
+
+word = dachowaliby
+dachowaliby/da = chowaliby
+dachowaliby/by = dachowali
+dachowaliby/chowa = daliby
+dachowaliby/daliby = chowa
+dachowaliby/dachowi = alby
+dachowaliby/dachowali = by
+dachowaliby/chowaliby = da
+
+word = dachowalibyście
+dachowalibyście/da = chowalibyście
+dachowalibyście/by = dachowaliście
+dachowalibyście/chowa = dalibyście
+dachowalibyście/byście = dachowali
+dachowalibyście/dachowali = byście
+dachowalibyście/dalibyście = chowa
+dachowalibyście/dachowaliście = by
+dachowalibyście/chowalibyście = da
+
+word = dachowalibyśmy
+dachowalibyśmy/da = chowalibyśmy
+dachowalibyśmy/by = dachowaliśmy
+dachowalibyśmy/chowa = dalibyśmy
+dachowalibyśmy/byśmy = dachowali
+dachowalibyśmy/dachowali = byśmy
+dachowalibyśmy/dalibyśmy = chowa
+dachowalibyśmy/dachowaliśmy = by
+dachowalibyśmy/chowalibyśmy = da
+
+word = dachowaliście
+dachowaliście/da = chowaliście
+dachowaliście/chowa = daliście
+dachowaliście/liście = dachowa
+dachowaliście/dachowa = liście
+dachowaliście/dachowe = aliści
+dachowaliście/daliście = chowa
+dachowaliście/chowaliście = da
+
+word = dachowaliśmy
+dachowaliśmy/da = chowaliśmy
+dachowaliśmy/chowa = daliśmy
+dachowaliśmy/daliśmy = chowa
+dachowaliśmy/chowaliśmy = da
+
+word = dachował
+dachował/da = chował
+dachował/dał = chowa
+dachował/dao = chwał
+dachował/chowa = dał
+dachował/chwał = dao
+dachował/chował = da
+
+word = dachowała
+dachowała/da = chowała
+dachowała/dao = chwała
+dachowała/dała = chowa
+dachowała/chowa = dała
+dachowała/chwała = dao
+dachowała/chowała = da
+
+word = dachowałaby
+dachowałaby/da = chowałaby
+dachowałaby/by = dachowała
+dachowałaby/łaby = dachowa
+dachowałaby/chowa = dałaby
+dachowałaby/dałaby = chowa
+dachowałaby/dachowa = łaby
+dachowałaby/dachował = aby
+dachowałaby/dachowała = by
+dachowałaby/chowałaby = da
+
+word = dachowałabym
+dachowałabym/da = chowałabym
+dachowałabym/by = dachowałam
+dachowałabym/dam = chowałaby
+dachowałabym/bym = dachowała
+dachowałabym/chowa = dałabym
+dachowałabym/dałaby = chowam
+dachowałabym/chowam = dałaby
+dachowałabym/dałabym = chowa
+dachowałabym/dachował = abym
+dachowałabym/dachowała = bym
+dachowałabym/chowałaby = dam
+dachowałabym/dachowałam = by
+dachowałabym/chowałabym = da
+
+word = dachowałabyś
+dachowałabyś/da = chowałabyś
+dachowałabyś/by = dachowałaś
+dachowałabyś/byś = dachowała
+dachowałabyś/chowa = dałabyś
+dachowałabyś/dałabyś = chowa
+dachowałabyś/dachował = abyś
+dachowałabyś/dachowała = byś
+dachowałabyś/dachowałaś = by
+dachowałabyś/chowałabyś = da
+
+word = dachowałam
+dachowałam/da = chowałam
+dachowałam/dam = chowała
+dachowałam/łam = dachowa
+dachowałam/wała = dachom
+dachowałam/dała = chowam
+dachowałam/dałam = chowa
+dachowałam/chowa = dałam
+dachowałam/dachom = wała
+dachowałam/chowam = dała
+dachowałam/dachowa = łam
+dachowałam/chowała = dam
+dachowałam/chowałam = da
+
+word = dachowałaś
+dachowałaś/da = chowałaś
+dachowałaś/łaś = dachowa
+dachowałaś/dałaś = chow

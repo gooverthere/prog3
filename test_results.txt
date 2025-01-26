@@ -1,0 +1,92 @@
+# For 6 cache buckets:
+
+## 50 samples
+
+normal: 241ms
+without fast contains: 397ms
+checking everything: 447ms
+
+## 250 samples
+
+normal: 213ms
+without fast contains: 406ms
+checking everything: 443ms
+
+# For 8 cache buckets
+
+## 250 samples
+
+normal: 40ms
+
+# For 9 cache buckets
+
+## 250 samples
+
+normal: 37ms
+
+# For 10 cache buckets
+
+## 250 samples
+
+normal: 37ms
+
+
+==================================================
+
+
+FC vs. UC
+
+
+# UC
+
+## 5000
+
+78ms
+
+
+# FC 100
+338ms
+
+# UC 100
+78ms
+
+# UC 3key 1000:
+63ms
+
+# UC 2key 1000:
+62ms
+
+UC with diffrent key lengths:
+
+1 - 78ms
+
+2 - 58ms - long cache creation
+
+3 - 73ms - very long cache creation
+
+
+cache creation time:
+
+cache.UltraCache creation time 2324.237 ms [key size 2] <= faster over 120 uses (y=2.5+0.6x vs y=0.25 + 0.08x)
+cache.UltraCache creation time 210.593 ms [key size 1]
+cache.FastCache creation time 163.639 ms
+cache.SlowCache creation time 0.257 ms
+
+for word lengths:
+
+<6 chars =>  <1 ms
+6  chars =>   1 ms
+7  chars =>   5 ms
+8  chars =>  12 ms
+9  chars =>  22 ms
+10 chars =>  35 ms
+11 chars =>  54 ms
+12 chars =>  74 ms
+13 chars => 102 ms
+14 chars => 126 ms
+15 chars => 158 ms
+
+
+poodsypujecie - cool
+kastracjami
+utożsamiającego

@@ -1,0 +1,184 @@
+word = ja
+NO MATCHES
+
+word = jabc
+NO MATCHES
+
+word = jabca
+NO MATCHES
+
+word = jabcach
+jabcach/jabc = ach
+
+word = jabcami
+jabcami/mi = jabca
+jabcami/jabca = mi
+
+word = jabcem
+jabcem/em = jabc
+jabcem/jabc = em
+
+word = jabco
+NO MATCHES
+
+word = jabcok
+jabcok/ok = jabc
+jabcok/bo = jack
+jabcok/jabc = ok
+jabcok/jack = bo
+
+word = jabcoka
+jabcoka/ok = jabca
+jabcoka/ka = jabco
+jabcoka/bo = jacka
+jabcoka/oka = jabc
+jabcoka/boa = jack
+jabcoka/jabc = oka
+jabcoka/jack = boa
+jabcoka/jabca = ok
+jabcoka/jabco = ka
+jabcoka/jacka = bo
+
+word = jabcokach
+jabcokach/ok = jabcach
+jabcokach/bo = jackach
+jabcokach/jabc = okach
+jabcokach/okach = jabc
+jabcokach/jabcok = ach
+jabcokach/jabcach = ok
+jabcokach/jackach = bo
+
+word = jabcokami
+jabcokami/ok = jabcami
+jabcokami/mi = jabcoka
+jabcokami/bo = jackami
+jabcokami/kami = jabco
+jabcokami/jabc = okami
+jabcokami/okami = jabc
+jabcokami/jabco = kami
+jabcokami/jabcami = ok
+jabcokami/jabcoka = mi
+jabcokami/jackami = bo
+
+word = jabcoki
+jabcoki/ki = jabco
+jabcoki/bo = jacki
+jabcoki/boi = jack
+jabcoki/jack = boi
+jabcoki/jabco = ki
+jabcoki/jacki = bo
+
+word = jabcokiem
+jabcokiem/em = jabcoki
+jabcokiem/bo = jackiem
+jabcokiem/kie = jabcom
+jabcokiem/jabc = okiem
+jabcokiem/okiem = jabc
+jabcokiem/jabcom = kie
+jabcokiem/jabcoki = em
+jabcokiem/jackiem = bo
+
+word = jabcokom
+jabcokom/ok = jabcom
+jabcokom/ko = jabcom
+jabcokom/bo = jackom
+jabcokom/kom = jabco
+jabcokom/okom = jabc
+jabcokom/jabc = okom
+jabcokom/jack = boom
+jabcokom/boom = jack
+jabcokom/jabco = kom
+jabcokom/jabcok = om
+jabcokom/jabcom = ko
+jabcokom/jackom = bo
+
+word = jabcokowi
+jabcokowi/bo = jackowi
+jabcokowi/jabcok = owi
+jabcokowi/jackowi = bo
+
+word = jabcoków
+jabcoków/ów = jabcok
+jabcoków/bo = jacków
+jabcoków/oków = jabc
+jabcoków/jabc = oków
+jabcoków/jabcok = ów
+jabcoków/jacków = bo
+
+word = jabcoku
+jabcoku/ok = jabcu
+jabcoku/ku = jabco
+jabcoku/bo = jacku
+jabcoku/oku = jabc
+jabcoku/jabc = oku
+jabcoku/jabco = ku
+jabcoku/jabcu = ok
+jabcoku/jacku = bo
+
+word = jabcom
+jabcom/om = jabc
+jabcom/jabc = om
+
+word = jabcu
+NO MATCHES
+
+word = jabloneccy
+NO MATCHES
+
+word = jablonecka
+NO MATCHES
+
+word = jablonecką
+NO MATCHES
+
+word = jablonecki
+NO MATCHES
+
+word = jabloneckich
+NO MATCHES
+
+word = jabloneckie
+NO MATCHES
+
+word = jabloneckiego
+jabloneckiego/go = jabloneckie
+jabloneckiego/jablonecki = ego
+jabloneckiego/jabloneckie = go
+
+word = jabloneckiej
+jabloneckiej/jablonecki = ej
+
+word = jabloneckiemu
+jabloneckiemu/mu = jabloneckie
+jabloneckiemu/jablonecki = emu
+jabloneckiemu/jabloneckie = mu
+
+word = jabloneckim
+NO MATCHES
+
+word = jabloneckimi
+jabloneckimi/mi = jablonecki
+jabloneckimi/im = jablonecki
+jabloneckimi/jablonecki = mi
+
+word = jablonecku
+NO MATCHES
+
+word = jabłczana
+NO MATCHES
+
+word = jabłczaną
+NO MATCHES
+
+word = jabłczance
+NO MATCHES
+
+word = jabłczane
+NO MATCHES
+
+word = jabłczanego
+jabłczanego/go = jabłczane
+jabłczanego/jabłczane = go
+
+word = jabłczanej
+NO MATC

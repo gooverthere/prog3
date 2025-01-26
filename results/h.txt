@@ -1,0 +1,231 @@
+word = ha
+NO MATCHES
+
+word = habaner
+habaner/ha = baner
+habaner/baner = ha
+
+word = habanera
+habanera/ha = banera
+habanera/banera = ha
+
+word = habanerach
+habanerach/ha = banerach
+habanerach/habaner = ach
+habanerach/banerach = ha
+
+word = habanerami
+habanerami/mi = habanera
+habanerami/ha = banerami
+habanerami/habanera = mi
+habanerami/banerami = ha
+
+word = habanerą
+NO MATCHES
+
+word = habanerę
+NO MATCHES
+
+word = habanero
+habanero/hao = baner
+habanero/baner = hao
+
+word = habanerom
+habanerom/om = habaner
+habanerom/ha = banerom
+habanerom/haom = baner
+habanerom/baner = haom
+habanerom/habaner = om
+habanerom/banerom = ha
+
+word = habanery
+habanery/ha = banery
+habanery/banery = ha
+
+word = habanerze
+habanerze/ze = habaner
+habanerze/ha = banerze
+habanerze/habaner = ze
+habanerze/banerze = ha
+
+word = habas
+habas/ha = bas
+habas/ba = has
+habas/has = ba
+habas/bas = ha
+
+word = habasa
+habasa/ha = basa
+habasa/ba = hasa
+habasa/hasa = ba
+habasa/basa = ha
+
+word = habasach
+habasach/ha = basach
+habasach/ba = hasach
+habasach/hasa = bach
+habasach/bach = hasa
+habasach/habas = ach
+habasach/hasach = ba
+habasach/basach = ha
+
+word = habasami
+habasami/mi = habasa
+habasami/ha = basami
+habasami/ba = hasami
+habasami/bai = hasam
+habasami/hasam = bai
+habasami/habasa = mi
+habasami/hasami = ba
+habasami/basami = ha
+
+word = habasem
+habasem/ha = basem
+habasem/em = habas
+habasem/ba = hasem
+habasem/habas = em
+habasem/hasem = ba
+habasem/basem = ha
+
+word = habasie
+habasie/ha = basie
+habasie/ba = hasie
+habasie/hasie = ba
+habasie/basie = ha
+
+word = habasom
+habasom/om = habas
+habasom/ha = basom
+habasom/ba = hasom
+habasom/hao = basm
+habasom/bas = haom
+habasom/haom = bas
+habasom/basm = hao
+habasom/habas = om
+habasom/hasom = ba
+habasom/basom = ha
+
+word = habasowi
+habasowi/ha = basowi
+habasowi/ba = hasowi
+habasowi/owi = habas
+habasowi/habas = owi
+habasowi/hasowi = ba
+habasowi/basowi = ha
+
+word = habasów
+habasów/ów = habas
+habasów/ha = basów
+habasów/ba = hasów
+habasów/habas = ów
+habasów/hasów = ba
+habasów/basów = ha
+
+word = habasy
+habasy/ha = basy
+habasy/ba = hasy
+habasy/aby = has
+habasy/hasy = ba
+habasy/basy = ha
+
+word = habdank
+NO MATCHES
+
+word = habdankach
+habdankach/habdank = ach
+
+word = habdankami
+NO MATCHES
+
+word = habdanki
+NO MATCHES
+
+word = habdankiem
+habdankiem/em = habdanki
+habdankiem/habdanki = em
+
+word = habdankom
+habdankom/om = habdank
+habdankom/habdank = om
+
+word = habdankowi
+habdankowi/owi = habdank
+habdankowi/habdank = owi
+
+word = habdanków
+habdanków/ów = habdank
+habdanków/habdank = ów
+
+word = habdanku
+NO MATCHES
+
+word = habend
+NO MATCHES
+
+word = habenda
+NO MATCHES
+
+word = habendach
+habendach/habend = ach
+
+word = habendami
+habendami/mi = habenda
+habendami/habenda = mi
+
+word = habendą
+NO MATCHES
+
+word = habendę
+NO MATCHES
+
+word = habendo
+NO MATCHES
+
+word = habendom
+habendom/om = habend
+habendom/habend = om
+
+word = habendy
+NO MATCHES
+
+word = habendzie
+NO MATCHES
+
+word = habicie
+habicie/ha = bicie
+habicie/bicie = ha
+
+word = habilitacja
+NO MATCHES
+
+word = habilitacjach
+NO MATCHES
+
+word = habilitacjami
+habilitacjami/mi = habilitacja
+habilitacjami/habilitacja = mi
+
+word = habilitacją
+NO MATCHES
+
+word = habilitacje
+NO MATCHES
+
+word = habilitację
+NO MATCHES
+
+word = habilitacji
+NO MATCHES
+
+word = habilitacjo
+NO MATCHES
+
+word = habilitacjom
+NO MATCHES
+
+word = habilitacyj
+NO MATCHES
+
+word = habilitacyjna
+habilitacyjna/na = habilitacyj
+habi

@@ -1,0 +1,237 @@
+word = ćakr
+NO MATCHES
+
+word = ćakra
+NO MATCHES
+
+word = ćakrach
+ćakrach/ćakr = ach
+
+word = ćakrami
+ćakrami/mi = ćakra
+ćakrami/ćmi = akra
+ćakrami/akra = ćmi
+ćakrami/ćakra = mi
+
+word = ćakrą
+NO MATCHES
+
+word = ćakrę
+NO MATCHES
+
+word = ćakro
+NO MATCHES
+
+word = ćakrom
+ćakrom/om = ćakr
+ćakrom/ćakr = om
+
+word = ćakry
+NO MATCHES
+
+word = ćakrze
+ćakrze/ze = ćakr
+ćakrze/ćakr = ze
+
+word = ćapati
+NO MATCHES
+
+word = ćatni
+NO MATCHES
+
+word = ćela
+NO MATCHES
+
+word = ćelach
+NO MATCHES
+
+word = ćelami
+ćelami/mi = ćela
+ćelami/ćela = mi
+
+word = ćelą
+NO MATCHES
+
+word = ćele
+NO MATCHES
+
+word = ćelę
+NO MATCHES
+
+word = ćeli
+NO MATCHES
+
+word = ćelo
+NO MATCHES
+
+word = ćelom
+NO MATCHES
+
+word = ćelowie
+ćelowie/wie = ćelo
+ćelowie/owe = ćeli
+ćelowie/owi = ćele
+ćelowie/ćele = owi
+ćelowie/ćeli = owe
+ćelowie/ćelo = wie
+
+word = ćelów
+NO MATCHES
+
+word = ćma
+NO MATCHES
+
+word = ćmach
+NO MATCHES
+
+word = ćmami
+ćmami/ma = ćmi
+ćmami/ćma = mi
+
+word = ćmawa
+NO MATCHES
+
+word = ćmawą
+NO MATCHES
+
+word = ćmawe
+ćmawe/we = ćma
+ćmawe/ćma = we
+
+word = ćmawego
+ćmawego/go = ćmawe
+ćmawego/ćmawe = go
+
+word = ćmawej
+NO MATCHES
+
+word = ćmawemu
+ćmawemu/ćmawe = mu
+
+word = ćmawi
+NO MATCHES
+
+word = ćmawy
+ćmawy/wy = ćma
+ćmawy/ćma = wy
+
+word = ćmawych
+ćmawych/wy = ćmach
+ćmawych/ćmach = wy
+
+word = ćmawym
+NO MATCHES
+
+word = ćmawymi
+ćmawymi/wy = ćmami
+ćmawymi/ćmami = wy
+ćmawymi/ćmawy = mi
+
+word = ćmą
+NO MATCHES
+
+word = ćmę
+NO MATCHES
+
+word = ćmi
+NO MATCHES
+
+word = ćmią
+NO MATCHES
+
+word = ćmiąc
+NO MATCHES
+
+word = ćmiąca
+NO MATCHES
+
+word = ćmiącą
+NO MATCHES
+
+word = ćmiące
+ćmiące/ce = ćmią
+ćmiące/ćmią = ce
+
+word = ćmiącego
+ćmiącego/go = ćmiące
+ćmiącego/ego = ćmiąc
+ćmiącego/ćmiąc = ego
+ćmiącego/ćmiące = go
+
+word = ćmiącej
+ćmiącej/ej = ćmiąc
+ćmiącej/ćmiąc = ej
+
+word = ćmiącemu
+ćmiącemu/emu = ćmiąc
+ćmiącemu/ćmiąc = emu
+ćmiącemu/ćmiące = mu
+
+word = ćmiący
+NO MATCHES
+
+word = ćmiących
+NO MATCHES
+
+word = ćmiącym
+ćmiącym/cym = ćmią
+ćmiącym/ćmią = cym
+
+word = ćmiącymi
+ćmiącymi/ćmiący = mi
+
+word = ćmicie
+ćmicie/ci = ćmie
+ćmicie/cie = ćmi
+ćmicie/ćmi = cie
+ćmicie/ćmie = ci
+
+word = ćmić
+NO MATCHES
+
+word = ćmie
+NO MATCHES
+
+word = ćmielowian
+NO MATCHES
+
+word = ćmielowianach
+ćmielowianach/ćmielowian = ach
+
+word = ćmielowianami
+NO MATCHES
+
+word = ćmielowiance
+ćmielowiance/ce = ćmielowian
+ćmielowiance/ćmielowian = ce
+
+word = ćmielowianek
+NO MATCHES
+
+word = ćmielowianie
+ćmielowianie/miani = ćelowie
+ćmielowianie/ćelowie = miani
+
+word = ćmielowianin
+ćmielowianin/ni = ćmielowian
+ćmielowianin/ćmielowian = in
+
+word = ćmielowianina
+NO MATCHES
+
+word = ćmielowianinem
+ćmielowianinem/ćmielowianin = em
+
+word = ćmielowianinie
+ćmielowianinie/ni = ćmielowianie
+ćmielowianinie/ćmielowian = inie
+ćmielowianinie/ćmielowianie = ni
+
+word = ćmielowianinowi
+ćmielowianinowi/ćmielowianin = owi
+
+word = ćmielowianka
+ćmielowianka/ka = ćmielowian
+ćmielowianka/ćmielowian = ka
+
+word = ćmielowi

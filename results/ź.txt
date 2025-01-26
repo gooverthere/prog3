@@ -1,0 +1,63 @@
+word = ździarscy
+NO MATCHES
+
+word = ździarska
+NO MATCHES
+
+word = ździarską
+NO MATCHES
+
+word = ździarski
+NO MATCHES
+
+word = ździarskich
+NO MATCHES
+
+word = ździarskie
+NO MATCHES
+
+word = ździarskiego
+ździarskiego/go = ździarskie
+ździarskiego/ego = ździarski
+ździarskiego/ździarski = ego
+ździarskiego/ździarskie = go
+
+word = ździarskiej
+ździarskiej/ej = ździarski
+ździarskiej/ździarski = ej
+
+word = ździarskiemu
+ździarskiemu/mu = ździarskie
+ździarskiemu/emu = ździarski
+ździarskiemu/ździarski = emu
+ździarskiemu/ździarskie = mu
+
+word = ździarskim
+NO MATCHES
+
+word = ździarskimi
+ździarskimi/mi = ździarski
+ździarskimi/ździarski = mi
+
+word = ździarsku
+NO MATCHES
+
+word = ździebek
+NO MATCHES
+
+word = ździebeł
+NO MATCHES
+
+word = ździebełeczek
+ździebełeczek/cze = ździebełek
+ździebełeczek/ździebełek = cze
+
+word = ździebełeczka
+NO MATCHES
+
+word = ździebełeczkach
+ździebełeczkach/czach = ździebełek
+ździebełeczkach/ździebełek = czach
+
+word = ździebełeczkami
+ździebełec

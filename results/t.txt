@@ -1,0 +1,302 @@
+word = ta
+NO MATCHES
+
+word = tab
+NO MATCHES
+
+word = tabace
+tabace/ta = bace
+tabace/ba = tace
+tabace/tace = ba
+tabace/bace = ta
+
+word = tabaczana
+tabaczana/ba = taczana
+tabaczana/bana = tacza
+tabaczana/tacza = bana
+tabaczana/taczana = ba
+
+word = tabaczaną
+tabaczaną/ba = taczaną
+tabaczaną/taczaną = ba
+
+word = tabaczane
+tabaczane/ba = taczane
+tabaczane/taczane = ba
+
+word = tabaczanego
+tabaczanego/go = tabaczane
+tabaczanego/ba = taczanego
+tabaczanego/tabaczne = ago
+tabaczanego/tabaczane = go
+tabaczanego/taczanego = ba
+
+word = tabaczanej
+tabaczanej/ba = taczanej
+tabaczanej/baj = taczane
+tabaczanej/taczane = baj
+tabaczanej/tabaczne = aj
+tabaczanej/taczanej = ba
+
+word = tabaczanemu
+tabaczanemu/mu = tabaczane
+tabaczanemu/ba = taczanemu
+tabaczanemu/tabaczane = mu
+tabaczanemu/taczanemu = ba
+
+word = tabaczani
+tabaczani/ba = taczani
+tabaczani/bani = tacza
+tabaczani/tacza = bani
+tabaczani/taczani = ba
+
+word = tabaczany
+tabaczany/ba = taczany
+tabaczany/bany = tacza
+tabaczany/tacza = bany
+tabaczany/taczany = ba
+
+word = tabaczanych
+tabaczanych/ba = taczanych
+tabaczanych/taczany = bach
+tabaczanych/tabaczny = ach
+tabaczanych/taczanych = ba
+
+word = tabaczanym
+tabaczanym/ba = taczanym
+tabaczanym/bam = taczany
+tabaczanym/bany = taczam
+tabaczanym/taczam = bany
+tabaczanym/taczany = bam
+tabaczanym/taczanym = ba
+
+word = tabaczanymi
+tabaczanymi/mi = tabaczany
+tabaczanymi/ba = taczanymi
+tabaczanymi/bai = taczanym
+tabaczanymi/abym = taczani
+tabaczanymi/taczanym = bai
+tabaczanymi/tabaczany = mi
+tabaczanymi/taczanymi = ba
+
+word = tabaczkowa
+tabaczkowa/ba = taczkowa
+tabaczkowa/bacz = takowa
+tabaczkowa/takowa = bacz
+tabaczkowa/taczkowa = ba
+
+word = tabaczkową
+tabaczkową/ba = taczkową
+tabaczkową/bacz = takową
+tabaczkową/takową = bacz
+tabaczkową/taczkową = ba
+
+word = tabaczkowe
+tabaczkowe/ba = taczkowe
+tabaczkowe/bacz = takowe
+tabaczkowe/takowe = bacz
+tabaczkowe/taczkowe = ba
+
+word = tabaczkowego
+tabaczkowego/go = tabaczkowe
+tabaczkowego/ba = taczkowego
+tabaczkowego/bacz = takowego
+tabaczkowego/takowego = bacz
+tabaczkowego/tabaczkowe = go
+tabaczkowego/taczkowego = ba
+
+word = tabaczkowej
+tabaczkowej/ba = taczkowej
+tabaczkowej/baj = taczkowe
+tabaczkowej/bacz = takowej
+tabaczkowej/takowej = bacz
+tabaczkowej/taczkowe = baj
+tabaczkowej/taczkowej = ba
+
+word = tabaczkowemu
+tabaczkowemu/mu = tabaczkowe
+tabaczkowemu/ba = taczkowemu
+tabaczkowemu/bacz = takowemu
+tabaczkowemu/takowemu = bacz
+tabaczkowemu/tabaczkowe = mu
+tabaczkowemu/taczkowemu = ba
+
+word = tabaczkowi
+tabaczkowi/ta = baczkowi
+tabaczkowi/ba = taczkowi
+tabaczkowi/bacz = takowi
+tabaczkowi/bawi = taczko
+tabaczkowi/taczko = bawi
+tabaczkowi/takowi = bacz
+tabaczkowi/taczkowi = ba
+tabaczkowi/baczkowi = ta
+
+word = tabaczkowy
+tabaczkowy/ba = taczkowy
+tabaczkowy/bacz = takowy
+tabaczkowy/takowy = bacz
+tabaczkowy/taczkowy = ba
+
+word = tabaczkowych
+tabaczkowych/ba = taczkowych
+tabaczkowych/bacz = takowych
+tabaczkowych/taczkowy = bach
+tabaczkowych/takowych = bacz
+tabaczkowych/taczkowych = ba
+
+word = tabaczkowym
+tabaczkowym/ba = taczkowym
+tabaczkowym/bam = taczkowy
+tabaczkowym/bacz = takowym
+tabaczkowym/takowym = bacz
+tabaczkowym/taczkowy = bam
+tabaczkowym/taczkowym = ba
+
+word = tabaczkowymi
+tabaczkowymi/mi = tabaczkowy
+tabaczkowymi/ba = taczkowymi
+tabaczkowymi/czi = tabakowym
+tabaczkowymi/bai = taczkowym
+tabaczkowymi/czym = tabakowi
+tabaczkowymi/bacz = takowymi
+tabaczkowymi/abym = taczkowi
+tabaczkowymi/tacki = bazowym
+tabaczkowymi/bazowym = tacki
+tabaczkowymi/tabakowi = czym
+tabaczkowymi/takowymi = bacz
+tabaczkowymi/tabakowym = czi
+tabaczkowymi/taczkowym = bai
+tabaczkowymi/tabaczkowy = mi
+tabaczkowymi/taczkowymi = ba
+
+word = tabaczna
+tabaczna/ta = baczna
+tabaczna/ban = tacza
+tabaczna/tana = bacz
+tabaczna/bacz = tana
+tabaczna/tacza = ban
+tabaczna/baczna = ta
+
+word = tabaczną
+tabaczną/ta = baczną
+tabaczną/tan = baczą
+tabaczną/baczą = tan
+tabaczną/baczną = ta
+
+word = tabaczne
+tabaczne/ta = baczne
+tabaczne/baczne = ta
+
+word = tabacznego
+tabacznego/ta = bacznego
+tabacznego/go = tabaczne
+tabacznego/tabaczne = go
+tabacznego/bacznego = ta
+
+word = tabacznej
+tabacznej/ta = bacznej
+tabacznej/taj = baczne
+tabacznej/baczne = taj
+tabacznej/bacznej = ta
+
+word = tabacznemu
+tabacznemu/ta = bacznemu
+tabacznemu/mu = tabaczne
+tabacznemu/tabaczne = mu
+tabacznemu/bacznemu = ta
+
+word = tabaczni
+tabaczni/ta = baczni
+tabaczni/tani = bacz
+tabaczni/bacz = tani
+tabaczni/baczni = ta
+
+word = tabaczny
+tabaczny/ta = baczny
+tabaczny/tan = baczy
+tabaczny/tany = bacz
+tabaczny/bacz = tany
+tabaczny/baczy = tan
+tabaczny/baczny = ta
+
+word = tabacznych
+tabacznych/ta = bacznych
+tabacznych/bacznych = ta
+
+word = tabacznym
+tabacznym/ta = bacznym
+tabacznym/tam = baczny
+tabacznym/baczny = tam
+tabacznym/bacznym = ta
+
+word = tabacznymi
+tabacznymi/ta = bacznymi
+tabacznymi/mi = tabaczny
+tabacznymi/tai = bacznym
+tabacznymi/bacznym = tai
+tabacznymi/tabaczny = mi
+tabacznymi/bacznymi = ta
+
+word = tabak
+tabak/ta = bak
+tabak/ba = tak
+tabak/tak = ba
+tabak/bak = ta
+
+word = tabaka
+tabaka/ta = baka
+tabaka/ba = taka
+tabaka/taka = ba
+tabaka/baka = ta
+tabaka/abak = ta
+
+word = tabakach
+tabakach/ta = bakach
+tabakach/ba = takach
+tabakach/taka = bach
+tabakach/bach = taka
+tabakach/tabak = ach
+tabakach/takach = ba
+tabakach/bakach = ta
+
+word = tabakami
+tabakami/ta = bakami
+tabakami/mi = tabaka
+tabakami/ba = takami
+tabakami/abaki = tam
+tabakami/tabaka = mi
+tabakami/takami = ba
+tabakami/bakami = ta
+
+word = tabaką
+tabaką/ta = baką
+tabaką/tą = abak
+tabaką/ba = taką
+tabaką/taką = ba
+tabaką/baką = ta
+tabaką/abak = tą
+
+word = tabakę
+tabakę/ta = bakę
+tabakę/tę = abak
+tabakę/ba = takę
+tabakę/takę = ba
+tabakę/bakę = ta
+tabakę/abak = tę
+
+word = tabaki
+tabaki/ta = baki
+tabaki/ba = taki
+tabaki/tai = bak
+tabaki/tak = bai
+tabaki/bai = tak
+tabaki/bak = tai
+tabaki/taki = ba
+tabaki/baki = ta
+
+word = tabakier
+tabakier/ta = bakier
+tabakier/er = tabaki
+tabakier/ter = abaki
+tabakier/bar = takie
+tabakier/takie 

@@ -1,0 +1,208 @@
+word = caatindze
+NO MATCHES
+
+word = caating
+NO MATCHES
+
+word = caatinga
+NO MATCHES
+
+word = caatingach
+caatingach/ach = catinga
+caatingach/caating = ach
+caatingach/catinga = ach
+
+word = caatingami
+caatingami/mi = caatinga
+caatingami/caatinga = mi
+
+word = caatingą
+NO MATCHES
+
+word = caatingę
+NO MATCHES
+
+word = caatingi
+NO MATCHES
+
+word = caatingo
+NO MATCHES
+
+word = caatingom
+caatingom/om = caating
+caatingom/caating = om
+
+word = cab
+NO MATCHES
+
+word = caba
+NO MATCHES
+
+word = cabach
+cabach/cab = ach
+
+word = cabaletcie
+NO MATCHES
+
+word = cabalett
+NO MATCHES
+
+word = cabaletta
+NO MATCHES
+
+word = cabalettach
+cabalettach/cabalett = ach
+
+word = cabalettami
+cabalettami/mi = cabaletta
+cabalettami/cabaletta = mi
+
+word = cabalettą
+NO MATCHES
+
+word = cabalettę
+NO MATCHES
+
+word = cabaletto
+NO MATCHES
+
+word = cabalettom
+cabalettom/om = cabalett
+cabalettom/cabalett = om
+
+word = cabaletty
+NO MATCHES
+
+word = caballera
+NO MATCHES
+
+word = caballerach
+NO MATCHES
+
+word = caballerami
+caballerami/mi = caballera
+caballerami/caballera = mi
+
+word = caballerem
+NO MATCHES
+
+word = caballero
+NO MATCHES
+
+word = caballerom
+NO MATCHES
+
+word = caballeros
+NO MATCHES
+
+word = caballerowi
+NO MATCHES
+
+word = caballerowie
+caballerowie/wie = caballero
+caballerowie/caballero = wie
+
+word = caballerów
+NO MATCHES
+
+word = caballery
+NO MATCHES
+
+word = caballerze
+NO MATCHES
+
+word = caballerzy
+NO MATCHES
+
+word = cabami
+cabami/mi = caba
+cabami/caba = mi
+
+word = cabas
+cabas/cab = as
+
+word = cabem
+cabem/em = cab
+cabem/cab = em
+
+word = cabernecie
+NO MATCHES
+
+word = cabernet
+NO MATCHES
+
+word = caberneta
+NO MATCHES
+
+word = cabernetach
+cabernetach/cabernet = ach
+
+word = cabernetami
+cabernetami/mi = caberneta
+cabernetami/caberneta = mi
+
+word = cabernetem
+cabernetem/cabernet = em
+
+word = cabernetom
+cabernetom/om = cabernet
+cabernetom/canto = berem
+cabernetom/berem = canto
+cabernetom/cabernet = om
+
+word = cabernetowi
+cabernetowi/owi = cabernet
+cabernetowi/cabernet = owi
+
+word = cabernetów
+cabernetów/ów = cabernet
+cabernetów/cabernet = ów
+
+word = cabernety
+NO MATCHES
+
+word = cabie
+NO MATCHES
+
+word = cabiun
+NO MATCHES
+
+word = cabiuna
+NO MATCHES
+
+word = cabiunach
+cabiunach/cabiun = ach
+
+word = cabiunami
+cabiunami/mi = cabiuna
+cabiunami/cabiuna = mi
+
+word = cabiuną
+NO MATCHES
+
+word = cabiunę
+NO MATCHES
+
+word = cabiunie
+NO MATCHES
+
+word = cabiuno
+NO MATCHES
+
+word = cabiunom
+cabiunom/om = cabiun
+cabiunom/cabiun = om
+
+word = cabiuny
+NO MATCHES
+
+word = cabocla
+cabocla/bol = caca
+cabocla/caca = bol
+
+word = caboclach
+NO MATCHES
+
+word = caboclami
+caboclami/mi = cabocla
+caboc

@@ -1,0 +1,548 @@
+word = ma
+NO MATCHES
+
+word = maa
+NO MATCHES
+
+word = maaloksach
+maaloksach/alo = maksach
+maaloksach/maksach = alo
+
+word = maaloksami
+maaloksami/alo = maksami
+maaloksami/maksami = alo
+
+word = maaloksem
+maaloksem/alo = maksem
+maaloksem/maksem = alo
+
+word = maaloksie
+maaloksie/alo = maksie
+maaloksie/aloe = maksi
+maaloksie/maksi = aloe
+maaloksie/maksie = alo
+
+word = maaloksom
+maaloksom/mak = alosom
+maaloksom/alo = maksom
+maaloksom/maksom = alo
+maaloksom/alosom = mak
+
+word = maaloksowi
+maaloksowi/alo = maksowi
+maaloksowi/maksowi = alo
+
+word = maaloksów
+maaloksów/alo = maksów
+maaloksów/maksów = alo
+
+word = maaloksu
+NO MATCHES
+
+word = maaloksy
+maaloksy/alo = maksy
+maaloksy/maksy = alo
+
+word = maalox
+NO MATCHES
+
+word = maaloxach
+maaloxach/maalox = ach
+
+word = maaloxami
+NO MATCHES
+
+word = maaloxem
+maaloxem/em = maalox
+maaloxem/maalox = em
+
+word = maaloxie
+NO MATCHES
+
+word = maaloxom
+maaloxom/maalox = om
+
+word = maaloxowi
+maaloxowi/maalox = owi
+
+word = maaloxów
+maaloxów/ów = maalox
+maaloxów/maalox = ów
+
+word = maaloxu
+NO MATCHES
+
+word = maaloxy
+NO MATCHES
+
+word = maar
+maar/ma = ar
+maar/ar = ma
+
+word = maarach
+maarach/ma = arach
+maarach/ach = mara
+maarach/ara = mach
+maarach/maar = ach
+maarach/mach = ara
+maarach/mara = ach
+maarach/arach = ma
+
+word = maarami
+maarami/ma = arami
+maarami/maa = rami
+maarami/ara = mami
+maarami/rami = maa
+maarami/mami = ara
+maarami/arami = ma
+
+word = maarem
+maarem/ma = arem
+maarem/em = maar
+maarem/rem = maa
+maarem/maa = rem
+maarem/maar = em
+maarem/arem = ma
+
+word = maarom
+maarom/om = maar
+maarom/ma = arom
+maarom/mam = aro
+maarom/aro = mam
+maarom/maar = om
+maarom/arom = ma
+
+word = maarowi
+maarowi/ma = arowi
+maarowi/owi = maar
+maarowi/maar = owi
+maarowi/arowi = ma
+
+word = maarów
+maarów/ów = maar
+maarów/ma = arów
+maarów/rów = maa
+maarów/maa = rów
+maarów/maar = ów
+maarów/arów = ma
+
+word = maaru
+maaru/au = mar
+maaru/mar = au
+
+word = maary
+maary/ma = ary
+maary/ar = may
+maary/may = ar
+maary/ary = ma
+
+word = maarze
+maarze/ze = maar
+maarze/ma = arze
+maarze/maar = ze
+maarze/arze = ma
+
+word = mac
+NO MATCHES
+
+word = maca
+NO MATCHES
+
+word = macach
+macach/mac = ach
+macach/ach = mac
+
+word = macacie
+macacie/mac = acie
+macacie/maca = cie
+macacie/acie = mac
+
+word = macać
+NO MATCHES
+
+word = macadełek
+NO MATCHES
+
+word = macadełka
+macadełka/dek = macała
+macadełka/deka = macał
+macadełka/macał = deka
+macadełka/macała = dek
+
+word = macadełkach
+macadełkach/macał = dekach
+macadełkach/dekach = macał
+
+word = macadełkami
+macadełkami/deki = macałam
+macadełkami/macał = dekami
+macadełkami/dekami = macał
+macadełkami/macałam = deki
+macadełkami/macadełka = mi
+
+word = macadełkiem
+macadełkiem/deki = macałem
+macadełkiem/macał = dekiem
+macadełkiem/dekiem = macał
+macadełkiem/macałem = deki
+
+word = macadełko
+macadełko/dek = macało
+macadełko/deko = macał
+macadełko/macał = deko
+macadełko/macało = dek
+
+word = macadełkom
+macadełkom/macał = dekom
+macadełkom/dekom = macał
+
+word = macadełku
+macadełku/deku = macał
+macadełku/macał = deku
+
+word = macaj
+macaj/mac = aj
+
+word = macają
+macają/ją = maca
+macają/maca = ją
+macają/macą = aj
+
+word = macając
+NO MATCHES
+
+word = macająca
+macająca/mają = caca
+macająca/caca = mają
+
+word = macającą
+NO MATCHES
+
+word = macające
+macające/macają = ce
+
+word = macającego
+macającego/go = macające
+macającego/ego = macając
+macającego/macając = ego
+macającego/macające = go
+
+word = macającej
+macającej/ej = macając
+macającej/macając = ej
+
+word = macającemu
+macającemu/emu = macając
+macającemu/macając = emu
+macającemu/macające = mu
+
+word = macający
+macający/mają = cacy
+macający/cacy = mają
+
+word = macających
+NO MATCHES
+
+word = macającym
+macającym/macają = cym
+
+word = macającymi
+macającymi/macający = mi
+
+word = macajcie
+macajcie/macaj = cie
+
+word = macajcież
+NO MATCHES
+
+word = macajmy
+macajmy/macaj = my
+
+word = macajmyż
+NO MATCHES
+
+word = macajże
+macajże/że = macaj
+macajże/macaj = że
+
+word = macali
+macali/ma = cali
+macali/li = maca
+macali/maa = cli
+macali/mac = ali
+macali/mai = cal
+macali/cal = mai
+macali/cli = maa
+macali/maca = li
+macali/maci = al
+macali/cali = ma
+
+word = macaliby
+macaliby/by = macali
+macaliby/maci = alby
+macaliby/mali = caby
+macaliby/caby = mali
+macaliby/macali = by
+
+word = macalibyście
+macalibyście/by = macaliście
+macalibyście/macali = byście
+macalibyście/byście = macali
+macalibyście/macaliście = by
+
+word = macalibyśmy
+macalibyśmy/by = macaliśmy
+macalibyśmy/byśmy = macali
+macalibyśmy/macali = byśmy
+macalibyśmy/macaliśmy = by
+
+word = macaliście
+macaliście/maca = liście
+macaliście/mace = aliści
+macaliście/liście = maca
+
+word = macaliśmy
+NO MATCHES
+
+word = macał
+NO MATCHES
+
+word = macała
+macała/ma = cała
+macała/maa = cła
+macała/cła = maa
+macała/cała = ma
+
+word = macałaby
+macałaby/by = macała
+macałaby/maca = łaby
+macałaby/mała = caby
+macałaby/caby = mała
+macałaby/łaby = maca
+macałaby/macał = aby
+macałaby/macała = by
+
+word = macałabym
+macałabym/by = macałam
+macałabym/bym = macała
+macałabym/łaby = macam
+macałabym/macał = abym
+macałabym/macam = łaby
+macałabym/macała = bym
+macałabym/macałam = by
+
+word = macałabyś
+macałabyś/by = macałaś
+macałabyś/byś = macała
+macałabyś/macał = abyś
+macałabyś/macała = byś
+macałabyś/macałaś = by
+
+word = macałam
+macałam/mam = cała
+macałam/łam = maca
+macałam/maca = łam
+macałam/cała = mam
+
+word = macałaś
+macałaś/łaś = maca
+macałaś/maca = łaś
+
+word = macałby
+macałby/by = macał
+macałby/cab = mały
+macałby/łby = maca
+macałby/maca = łby
+macałby/mały = cab
+macałby/macał = by
+
+word = macałbym
+macałbym/cab = małym
+macałbym/bym = macał
+macałbym/łby = macam
+macałbym/macał = bym
+macałbym/macam = łby
+macałbym/małym = cab
+
+word = macałbyś
+macałbyś/byś = macał
+macałbyś/macał = byś
+
+word = macałem
+macałem/em = macał
+macałem/maa = cłem
+macałem/mam = całe
+macałem/całe = mam
+macałem/cłem = maa
+macałem/macał = em
+
+word = macałeś
+macałeś/eś = macał
+macałeś/macał = eś
+
+word = macało
+macało/ma = cało
+macało/maa = cło
+macało/cło = maa
+macało/cało = ma
+
+word = macałoby
+macałoby/by = macało
+macałoby/oby = macał
+macałoby/łby = macao
+macałoby/mało = caby
+macałoby/caby = mało
+macałoby/macał = oby
+macałoby/macao = łby
+macałoby/macało = by
+
+word = macały
+macały/ma = cały
+macały/cały = ma
+
+word = macałyby
+macałyby/by = macały
+macałyby/mały = caby
+macałyby/caby = mały
+macałyby/macały = by
+
+word = macałybyście
+macałybyście/by = macałyście
+macałybyście/macały = byście
+macałybyście/byście = macały
+macałybyście/macałyście = by
+
+word = macałybyśmy
+macałybyśmy/by = macałyśmy
+macałybyśmy/byśmy = macały
+macałybyśmy/macały = byśmy
+macałybyśmy/macałyśmy = by
+
+word = macałyście
+NO MATCHES
+
+word = macałyśmy
+NO MATCHES
+
+word = macam
+NO MATCHES
+
+word = macami
+macami/maca = mi
+
+word = macamy
+macamy/maca = my
+
+word = macana
+macana/na = maca
+macana/maa = cna
+macana/mac = ana
+macana/cna = maa
+macana/maca = na
+macana/acan = ma
+
+word = macaną
+macaną/mą = acan
+macaną/maa = cną
+macaną/cną = maa
+macaną/acan = mą
+
+word = macance
+macance/ma = cance
+macance/cance = ma
+
+word = macanci
+macanci/mai = canc
+macanci/canc = mai
+
+word = macancie
+macancie/ma = cancie
+macancie/mi = acance
+macancie/mac = ancie
+macancie/mai = cance
+macancie/acie = manc
+macancie/macce = ani
+macancie/cance = mai
+macancie/macane = ci
+macancie/macani = ce
+macancie/cancie = ma
+macancie/acance = mi
+
+word = macane
+macane/me = acan
+macane/maa = cne
+macane/cne = maa
+macane/acan = me
+
+word = macanego
+macanego/go = macane
+macanego/maa = cnego
+macanego/mego = acan
+macanego/acan = mego
+macanego/cnego = maa
+macanego/macane = go
+
+word = macanej
+macanej/maa = cnej
+macanej/mej = acan
+macanej/cnej = maa
+macanej/acan = mej
+
+word = macanek
+NO MATCHES
+
+word = macanemu
+macanemu/mu = acanem
+macanemu/maa = cnemu
+macanemu/mem = acanu
+macanemu/nemu = maca
+macanemu/maca = nemu
+macanemu/memu = acan
+macanemu/acan = memu
+macanemu/cnemu = maa
+macanemu/acanu = mem
+macanemu/macane = mu
+macanemu/acanem = mu
+
+word = macani
+macani/ni = maca
+macani/mi = acan
+macani/maa = cni
+macani/mac = ani
+macani/cni = maa
+macani/maca = ni
+macani/acan = mi
+
+word = macania
+macania/mi = acana
+macania/maci = ana
+macania/acana = mi
+macania/acani = ma
+
+word = macaniach
+macaniach/mi = acanach
+macaniach/ich = macana
+macaniach/mich = acana
+macaniach/acana = mich
+macaniach/acani = mach
+macaniach/macana = ich
+macaniach/macani = ach
+macaniach/acanach = mi
+macaniach/acanich = ma
+
+word = macaniami
+macaniami/mi = acanami
+macaniami/acani = mami
+macaniami/acanim = mai
+macaniami/macania = mi
+macaniami/acanami = mi
+macaniami/acanimi = ma
+
+word = macanie
+macanie/me = acani
+macanie/nie = maca
+macanie/maca = nie
+macanie/mace = ani
+macanie/acie = man
+macanie/acani = me
+

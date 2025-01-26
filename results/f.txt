@@ -1,0 +1,149 @@
+word = fa
+NO MATCHES
+
+word = fabia
+fabia/ba = fai
+fabia/fai = ba
+
+word = fabiach
+fabiach/fai = bach
+fabiach/bach = fai
+
+word = fabiami
+fabiami/mi = fabia
+fabiami/fabia = mi
+
+word = fabian
+fabian/fai = ban
+fabian/ban = fai
+
+word = fabianach
+fabianach/na = fabiach
+fabianach/fai = banach
+fabianach/fabian = ach
+fabianach/banach = fai
+fabianach/fabiach = na
+
+word = fabianami
+fabianami/na = fabiami
+fabianami/fai = banami
+fabianami/nami = fabia
+fabianami/fabia = nami
+fabianami/banami = fai
+fabianami/fabiami = na
+
+word = fabianeccy
+NO MATCHES
+
+word = fabianecka
+NO MATCHES
+
+word = fabianecką
+NO MATCHES
+
+word = fabianecki
+fabianecki/finek = abaci
+fabianecki/abaci = finek
+
+word = fabianeckich
+NO MATCHES
+
+word = fabianeckie
+fabianeckie/finek = abacie
+fabianeckie/abacie = finek
+
+word = fabianeckiego
+fabianeckiego/go = fabianeckie
+fabianeckiego/fabianecki = ego
+fabianeckiego/fabianeckie = go
+
+word = fabianeckiej
+fabianeckiej/fabianecki = ej
+
+word = fabianeckiemu
+fabianeckiemu/mu = fabianeckie
+fabianeckiemu/fabianecki = emu
+fabianeckiemu/fabianeckie = mu
+
+word = fabianeckim
+NO MATCHES
+
+word = fabianeckimi
+fabianeckimi/mi = fabianecki
+fabianeckimi/fabianecki = mi
+
+word = fabianecku
+NO MATCHES
+
+word = fabianie
+fabianie/nie = fabia
+fabianie/fai = banie
+fabianie/fabia = nie
+fabianie/fabie = ani
+fabianie/banie = fai
+
+word = fabianin
+fabianin/ni = fabian
+fabianin/fabian = in
+
+word = fabianina
+NO MATCHES
+
+word = fabianinem
+fabianinem/em = fabianin
+fabianinem/fabianin = em
+
+word = fabianinie
+fabianinie/ni = fabianie
+fabianinie/fabian = inie
+fabianinie/fabianie = ni
+
+word = fabianinowi
+fabianinowi/owi = fabianin
+fabianinowi/fabianin = owi
+
+word = fabianizm
+fabianizm/fabian = izm
+
+word = fabianizmach
+fabianizmach/fabian = izmach
+fabianizmach/fabianach = izm
+fabianizmach/fabianizm = ach
+
+word = fabianizmami
+fabianizmami/mai = fabianizm
+fabianizmami/nizam = fabiami
+fabianizmami/fabian = izmami
+fabianizmami/fabiami = nizam
+fabianizmami/fabianami = izm
+
+word = fabianizmem
+fabianizmem/me = fabianizm
+fabianizmem/em = fabianizm
+fabianizmem/fabian = izmem
+fabianizmem/fabianizm = em
+
+word = fabianizmie
+fabianizmie/fabian = izmie
+
+word = fabianizmom
+fabianizmom/om = fabianizm
+fabianizmom/fabian = izmom
+fabianizmom/fabianom = izm
+fabianizmom/fabianizm = om
+
+word = fabianizmowi
+fabianizmowi/owi = fabianizm
+fabianizmowi/fabian = izmowi
+fabianizmowi/fabianizm = owi
+
+word = fabianizmów
+fabianizmów/ów = fabianizm
+fabianizmów/fabian = izmów
+fabianizmów/fabianów = izm
+fabianizmów/fabianizm = ów
+
+word = fabianizmu
+fabianizmu/fabian = izmu
+
+word = f

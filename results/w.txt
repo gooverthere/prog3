@@ -1,0 +1,542 @@
+word = wab
+NO MATCHES
+
+word = wabcie
+wabcie/ce = wabi
+wabcie/wab = cie
+wabcie/cie = wab
+wabcie/wabi = ce
+
+word = wabcież
+NO MATCHES
+
+word = wabi
+NO MATCHES
+
+word = wabia
+NO MATCHES
+
+word = wabiach
+wabiach/wabi = ach
+
+word = wabiami
+wabiami/mi = wabia
+wabiami/wabia = mi
+
+word = wabią
+NO MATCHES
+
+word = wabiąc
+NO MATCHES
+
+word = wabiąca
+NO MATCHES
+
+word = wabiącą
+NO MATCHES
+
+word = wabiące
+wabiące/ce = wabią
+wabiące/wabią = ce
+
+word = wabiącego
+wabiącego/go = wabiące
+wabiącego/ego = wabiąc
+wabiącego/wabiąc = ego
+wabiącego/wabiące = go
+
+word = wabiącej
+wabiącej/ej = wabiąc
+wabiącej/wabiąc = ej
+
+word = wabiącemu
+wabiącemu/mu = wabiące
+wabiącemu/emu = wabiąc
+wabiącemu/wabiąc = emu
+wabiącemu/wabiące = mu
+
+word = wabiąco
+wabiąco/co = wabią
+wabiąco/wabią = co
+
+word = wabiący
+NO MATCHES
+
+word = wabiących
+NO MATCHES
+
+word = wabiącym
+wabiącym/cym = wabią
+wabiącym/wabią = cym
+
+word = wabiącymi
+wabiącymi/mi = wabiący
+wabiącymi/wabiący = mi
+
+word = wabicie
+wabicie/ci = wabie
+wabicie/bi = wacie
+wabicie/cie = wabi
+wabicie/wabi = cie
+wabicie/wabie = ci
+wabicie/wacie = bi
+
+word = wabić
+NO MATCHES
+
+word = wabie
+NO MATCHES
+
+word = wabiem
+wabiem/em = wabi
+wabiem/wabi = em
+
+word = wabieni
+wabieni/ni = wabie
+wabieni/wabie = ni
+
+word = wabienia
+NO MATCHES
+
+word = wabieniach
+wabieniach/wabieni = ach
+
+word = wabieniami
+wabieniami/mi = wabienia
+wabieniami/wabienia = mi
+
+word = wabienie
+wabienie/nie = wabie
+wabienie/wabie = nie
+
+word = wabieniem
+wabieniem/nie = wabiem
+wabieniem/wabiem = nie
+wabieniem/wabieni = em
+
+word = wabieniom
+wabieniom/om = wabieni
+wabieniom/wabieni = om
+
+word = wabieniu
+NO MATCHES
+
+word = wabień
+wabień/eń = wabi
+wabień/wabi = eń
+
+word = wabię
+NO MATCHES
+
+word = wabik
+NO MATCHES
+
+word = wabika
+wabika/ka = wabi
+wabika/wabi = ka
+
+word = wabikach
+wabikach/wabik = ach
+
+word = wabikami
+wabikami/mi = wabika
+wabikami/wabi = kami
+wabikami/kami = wabi
+wabikami/wabika = mi
+
+word = wabiki
+wabiki/ki = wabi
+wabiki/wabi = ki
+
+word = wabikiem
+wabikiem/ki = wabiem
+wabikiem/em = wabiki
+wabikiem/kim = wabie
+wabikiem/wabie = kim
+wabikiem/wabiem = ki
+wabikiem/wabiki = em
+
+word = wabikom
+wabikom/om = wabik
+wabikom/kom = wabi
+wabikom/wabi = kom
+wabikom/wabik = om
+
+word = wabikowi
+wabikowi/owi = wabik
+wabikowi/wabik = owi
+
+word = wabików
+wabików/ów = wabik
+wabików/wabik = ów
+
+word = wabiku
+wabiku/ku = wabi
+wabiku/wabi = ku
+
+word = wabili
+wabili/li = wabi
+wabili/bi = wali
+wabili/wabi = li
+wabili/wali = bi
+
+word = wabiliby
+wabiliby/wali = biby
+wabiliby/wili = abby
+wabiliby/biby = wali
+wabiliby/abby = wili
+wabiliby/wbili = aby
+wabiliby/wabili = by
+
+word = wabilibyście
+wabilibyście/abby = wiliście
+wabilibyście/wbili = abyście
+wabilibyście/wabili = byście
+wabilibyście/waście = biliby
+wabilibyście/wiliby = abście
+wabilibyście/biliby = waście
+wabilibyście/abście = wiliby
+wabilibyście/wiliście = abby
+wabilibyście/wbiliście = aby
+wabilibyście/wabiliście = by
+
+word = wabilibyśmy
+wabilibyśmy/abby = wiliśmy
+wabilibyśmy/wbili = abyśmy
+wabilibyśmy/wabili = byśmy
+wabilibyśmy/wiliśmy = abby
+wabilibyśmy/wbiliśmy = aby
+wabilibyśmy/wabiliśmy = by
+
+word = wabiliście
+wabiliście/wabi = liście
+wabiliście/wili = abście
+wabiliście/bili = waście
+wabiliście/wabie = liści
+wabiliście/liści = wabie
+wabiliście/waście = bili
+wabiliście/liście = wabi
+wabiliście/abście = wili
+
+word = wabiliśmy
+NO MATCHES
+
+word = wabił
+wabił/ił = wab
+wabił/bi = wał
+wabił/wab = ił
+wabił/wał = bi
+
+word = wabiła
+wabiła/bi = wała
+wabiła/wab = iła
+wabiła/iła = wab
+wabiła/wała = bi
+
+word = wabiłaby
+wabiłaby/łby = wabia
+wabiłaby/wabi = łaby
+wabiłaby/wała = biby
+wabiłaby/wiła = abby
+wabiłaby/biby = wała
+wabiłaby/abby = wiła
+wabiłaby/łaby = wabi
+wabiłaby/wabia = łby
+wabiłaby/wabił = aby
+wabiłaby/wbiła = aby
+wabiłaby/wabiła = by
+
+word = wabiłabym
+wabiłabym/wam = biłaby
+wabiłabym/abby = wiłam
+wabiłabym/wabił = abym
+wabiłabym/wbiła = abym
+wabiłabym/wiłam = abby
+wabiłabym/wabiła = bym
+wabiłabym/wbiłam = aby
+wabiłabym/biłaby = wam
+wabiłabym/wabiłam = by
+
+word = wabiłabyś
+wabiłabyś/abby = wiłaś
+wabiłabyś/wabił = abyś
+wabiłabyś/wbiła = abyś
+wabiłabyś/wiłaś = abby
+wabiłabyś/wabiła = byś
+wabiłabyś/wbiłaś = aby
+wabiłabyś/wabiłaś = by
+
+word = wabiłam
+wabiłam/wam = biła
+wabiłam/bim = wała
+wabiłam/łam = wabi
+wabiłam/wabi = łam
+wabiłam/wała = bim
+wabiłam/biła = wam
+
+word = wabiłaś
+wabiłaś/łaś = wabi
+wabiłaś/wabi = łaś
+
+word = wabiłby
+wabiłby/wał = biby
+wabiłby/wił = abby
+wabiłby/bib = wały
+wabiłby/łby = wabi
+wabiłby/wabi = łby
+wabiłby/wały = bib
+wabiłby/wbił = aby
+wabiłby/biby = wał
+wabiłby/biły = wab
+wabiłby/abby = wił
+wabiłby/wabił = by
+
+word = wabiłbym
+wabiłbym/wam = biłby
+wabiłbym/wbił = abym
+wabiłbym/wabił = bym
+wabiłbym/biłby = wam
+
+word = wabiłbyś
+wabiłbyś/wbił = abyś
+wabiłbyś/wabił = byś
+
+word = wabiłem
+wabiłem/em = wabił
+wabiłem/bi = wałem
+wabiłem/wab = iłem
+wabiłem/iłem = wab
+wabiłem/wabił = em
+wabiłem/wałem = bi
+
+word = wabiłeś
+wabiłeś/eś = wabił
+wabiłeś/wał = bieś
+wabiłeś/bieś = wał
+wabiłeś/wabił = eś
+
+word = wabiło
+wabiło/wił = abo
+wabiło/abo = wił
+
+word = wabiłoby
+wabiłoby/oby = wabił
+wabiłoby/abo = wiłby
+wabiłoby/wiło = abby
+wabiłoby/abby = wiło
+wabiłoby/wabił = oby
+wabiłoby/wbiło = aby
+wabiłoby/wiłby = abo
+wabiłoby/wabiło = by
+
+word = wabiły
+wabiły/bi = wały
+wabiły/wab = iły
+wabiły/wił = aby
+wabiły/iły = wab
+wabiły/aby = wił
+wabiły/wały = bi
+
+word = wabiłyby
+wabiłyby/aby = wiłby
+wabiłyby/wały = biby
+wabiłyby/wiły = abby
+wabiłyby/biby = wały
+wabiłyby/abby = wiły
+wabiłyby/wbiły = aby
+wabiłyby/wiłby = aby
+wabiłyby/wabiły = by
+
+word = wabiłybyście
+wabiłybyście/abby = wiłyście
+wabiłybyście/wbiły = abyście
+wabiłybyście/wiłby = abyście
+wabiłybyście/wabiły = byście
+wabiłybyście/waście = biłyby
+wabiłybyście/wiłyby = abście
+wabiłybyście/biłyby = waście
+wabiłybyście/abście = wiłyby
+wabiłybyście/abyście = wiłby
+wabiłybyście/wiłyście = abby
+wabiłybyście/wbiłyście = aby
+wabiłybyście/wabiłyście = by
+
+word = wabiłybyśmy
+wabiłybyśmy/abby = wiłyśmy
+wabiłybyśmy/wbiły = abyśmy
+wabiłybyśmy/wiłby = abyśmy
+wabiłybyśmy/wabiły = byśmy
+wabiłybyśmy/abyśmy = wiłby
+wabiłybyśmy/wiłyśmy = abby
+wabiłybyśmy/wbiłyśmy = aby
+wabiłybyśmy/wabiłyśmy = by
+
+word = wabiłyście
+wabiłyście/wił = abyście
+wabiłyście/wiły = abście
+wabiłyście/biły = waście
+wabiłyście/waście = biły
+wabiłyście/abście = wiły
+wabiłyście/abyście = wił
+
+word = wabiłyśmy
+wabiłyśmy/wił = abyśmy
+wabiłyśmy/abyśmy = wił
+
+word = wabimy
+wabimy/my = wabi
+wabimy/wabi = my
+
+word = wabiom
+wabiom/om = wabi
+wabiom/wabi = om
+
+word = wabiona
+wabiona/on = wabia
+wabiona/ona = wabi
+wabiona/abo = wina
+wabiona/wabi = ona
+wabiona/wina = abo
+wabiona/wabia = on
+
+word = wabioną
+wabioną/on = wabią
+wabioną/oną = wabi
+wabioną/abo = winą
+wabioną/wabi = oną
+wabioną/winą = abo
+wabioną/wabią = on
+
+word = wabione
+wabione/on = wabie
+wabione/one = wabi
+wabione/wabi = one
+wabione/wabie = on
+
+word = wabionego
+wabionego/go = wabione
+wabionego/wabi = onego
+wabionego/onego = wabi
+wabionego/wabione = go
+
+word = wabionej
+wabionej/wabi = onej
+wabionej/onej = wabi
+
+word = wabionemu
+wabionemu/mu = wabione
+wabionemu/wabi = onemu
+wabionemu/onemu = wabi
+wabionemu/wabione = mu
+
+word = wabiono
+wabiono/ono = wabi
+wabiono/abo = wino
+wabiono/wabi = ono
+wabiono/wino = abo
+
+word = wabiony
+wabiony/abo = winy
+wabiony/winy = abo
+
+word = wabionych
+wabionych/wabi = onych
+wabionych/onych = wabi
+
+word = wabionym
+wabionym/ny = wabiom
+wabionym/wabi = onym
+wabionym/wany = biom
+wabionym/onym = wabi
+wabionym/biom = wany
+wabionym/wabiom = ny
+
+word = wabionymi
+wabionymi/mi = wabiony
+wabionymi/wabi = onymi
+wabionymi/onymi = wabi
+wabionymi/wabiony = mi
+
+word = wabiowi
+wabiowi/owi = wabi
+wabiowi/wabi = owi
+
+word = wabiów
+wabiów/ów = wabi
+wabiów/wabi = ów
+
+word = wabisz
+wabisz/bi = wasz
+wabisz/was = biz
+wabisz/waz = bis
+wabisz/bis = waz
+wabisz/biz = was
+wabisz/wasz = bi
+
+word = wabiu
+NO MATCHES
+
+word = wabmy
+wabmy/my = wab
+wabmy/by = wam
+wabmy/wab = my
+wabmy/wam = by
+
+word = wabmyż
+NO MATCHES
+
+word = wabże
+wabże/że = wab
+wabże/be = waż
+wabże/wab = że
+wabże/waż = be
+
+word = wach
+NO MATCHES
+
+word = wacha
+NO MATCHES
+
+word = wachach
+wachach/cha = wach
+wachach/ach = wach
+wachach/wach = ach
+
+word = wachami
+wachami/mi = wacha
+wachami/ci = waham
+wachami/cha = wami
+wachami/ach = wami
+wachami/wami = cha
+wachami/wacha = mi
+wachami/waham = ci
+
+word = wachą
+NO MATCHES
+
+word = wachcie
+wachcie/wach = cie
+
+word = wachę
+NO MATCHES
+
+word = wachlarek
+NO MATCHES
+
+word = wachlarka
+wachlarka/wal = charka
+wachlarka/walk = chara
+wachlarka/char = walka
+wachlarka/walka = char
+wachlarka/chara = walk
+wachlarka/charka = wal
+
+word = wachlarkach
+wachlarkach/walk = charach
+wachlarkach/char = walkach
+wachlarkach/walkach = char
+wachlarkach/charach = walk
+
+word = wachlarkami
+wachlarkami/mi = wachlarka
+wachlar

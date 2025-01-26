@@ -1,0 +1,213 @@
+word = ócz
+NO MATCHES
+
+word = ód
+NO MATCHES
+
+word = ós
+NO MATCHES
+
+word = ósemce
+ósemce/ós = emce
+ósemce/emce = ós
+
+word = ósemek
+ósemek/ós = emek
+ósemek/emek = ós
+
+word = ósemka
+ósemka/ós = emka
+ósemka/emka = ós
+
+word = ósemkach
+ósemkach/ós = emkach
+ósemkach/emkach = ós
+
+word = ósemkami
+ósemkami/ós = emkami
+ósemkami/emka = ósmi
+ósemkami/ósemka = mi
+ósemkami/emkami = ós
+
+word = ósemką
+ósemką/ós = emką
+ósemką/emką = ós
+
+word = ósemkę
+ósemkę/ós = emkę
+ósemkę/emkę = ós
+
+word = ósemki
+ósemki/ós = emki
+ósemki/emki = ós
+
+word = ósemko
+ósemko/ós = emko
+ósemko/emko = ós
+
+word = ósemkom
+ósemkom/ós = emkom
+ósemkom/emkom = ós
+
+word = ósemkowa
+NO MATCHES
+
+word = ósemkową
+NO MATCHES
+
+word = ósemkowe
+ósemkowe/we = ósemko
+ósemkowe/ósemko = we
+
+word = ósemkowego
+ósemkowego/go = ósemkowe
+ósemkowego/ósemkowe = go
+
+word = ósemkowej
+NO MATCHES
+
+word = ósemkowemu
+ósemkowemu/ósemkowe = mu
+
+word = ósemkowi
+NO MATCHES
+
+word = ósemkowy
+ósemkowy/wy = ósemko
+ósemkowy/ósemko = wy
+
+word = ósemkowych
+NO MATCHES
+
+word = ósemkowym
+ósemkowym/wy = ósemkom
+ósemkowym/ósemkom = wy
+
+word = ósemkowymi
+ósemkowymi/owym = ósemki
+ósemkowymi/ósemki = owym
+ósemkowymi/ósemkowy = mi
+
+word = ósma
+ósma/ós = ma
+ósma/ma = ós
+
+word = ósmacy
+ósmacy/ós = macy
+ósmacy/macy = ós
+
+word = ósmak
+ósmak/ós = mak
+ósmak/mak = ós
+
+word = ósmaka
+ósmaka/ós = maka
+ósmaka/ka = ósma
+ósmaka/ósma = ka
+ósmaka/maka = ós
+
+word = ósmakach
+ósmakach/ós = makach
+ósmakach/ósmak = ach
+ósmakach/makach = ós
+
+word = ósmakami
+ósmakami/ós = makami
+ósmakami/ósma = kami
+ósmakami/maka = ósmi
+ósmakami/kami = ósma
+ósmakami/ósmaka = mi
+ósmakami/makami = ós
+
+word = ósmaki
+ósmaki/ós = maki
+ósmaki/ki = ósma
+ósmaki/ósma = ki
+ósmaki/maki = ós
+
+word = ósmakiem
+ósmakiem/ós = makiem
+ósmakiem/em = ósmaki
+ósmakiem/ósmaki = em
+ósmakiem/makiem = ós
+
+word = ósmakom
+ósmakom/ós = makom
+ósmakom/om = ósmak
+ósmakom/kom = ósma
+ósmakom/ósma = kom
+ósmakom/ósmak = om
+ósmakom/makom = ós
+
+word = ósmakowi
+ósmakowi/ós = makowi
+ósmakowi/owi = ósmak
+ósmakowi/ósmak = owi
+ósmakowi/makowi = ós
+
+word = ósmaków
+ósmaków/ós = maków
+ósmaków/ósmak = ów
+ósmaków/maków = ós
+
+word = ósmaku
+ósmaku/ós = maku
+ósmaku/ku = ósma
+ósmaku/ósma = ku
+ósmaku/maku = ós
+
+word = ósmą
+ósmą/ós = mą
+ósmą/mą = ós
+
+word = ósme
+ósme/ós = me
+ósme/me = ós
+
+word = ósmego
+ósmego/ós = mego
+ósmego/go = ósme
+ósmego/ósme = go
+ósmego/mego = ós
+
+word = ósmej
+ósmej/ós = mej
+ósmej/mej = ós
+
+word = ósmemu
+ósmemu/ós = memu
+ósmemu/ósme = mu
+ósmemu/memu = ós
+
+word = ósmi
+ósmi/ós = mi
+ósmi/mi = ós
+
+word = ósmoklasista
+NO MATCHES
+
+word = ósmoklasistach
+NO MATCHES
+
+word = ósmoklasistami
+ósmoklasistami/ósmoklasista = mi
+
+word = ósmoklasistą
+NO MATCHES
+
+word = ósmoklasistce
+NO MATCHES
+
+word = ósmoklasistek
+NO MATCHES
+
+word = ósmoklasistę
+NO MATCHES
+
+word = ósmoklasistka
+NO MATCHES
+
+word = ósmoklasistkach
+NO MATCHES
+
+word = ósmok

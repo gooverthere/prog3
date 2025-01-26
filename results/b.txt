@@ -1,0 +1,481 @@
+word = ba
+NO MATCHES
+
+word = baalizm
+baalizm/baz = alim
+baalizm/alim = baz
+
+word = baalizmach
+baalizmach/baz = alimach
+baalizmach/alim = bazach
+baalizmach/bazach = alim
+baalizmach/baalizm = ach
+baalizmach/alimach = baz
+
+word = baalizmami
+baalizmami/mai = baalizm
+baalizmami/baz = alimami
+baalizmami/alim = bazami
+baalizmami/bazami = alim
+baalizmami/alimami = baz
+
+word = baalizmem
+baalizmem/me = baalizm
+baalizmem/em = baalizm
+baalizmem/baz = alimem
+baalizmem/alimem = baz
+baalizmem/baalizm = em
+
+word = baalizmie
+baalizmie/baz = alimie
+baalizmie/alim = bazie
+baalizmie/bazie = alim
+baalizmie/alimie = baz
+
+word = baalizmom
+baalizmom/om = baalizm
+baalizmom/baz = alimom
+baalizmom/alim = bazom
+baalizmom/bazom = alim
+baalizmom/alimom = baz
+baalizmom/baalizm = om
+
+word = baalizmowi
+baalizmowi/owi = baalizm
+baalizmowi/baz = alimowi
+baalizmowi/alim = bazowi
+baalizmowi/bazowi = alim
+baalizmowi/baalizm = owi
+baalizmowi/alimowi = baz
+
+word = baalizmów
+baalizmów/ów = baalizm
+baalizmów/baz = alimów
+baalizmów/alimów = baz
+baalizmów/baalizm = ów
+
+word = baalizmu
+NO MATCHES
+
+word = baalizmy
+baalizmy/baz = alimy
+baalizmy/bazy = alim
+baalizmy/alim = bazy
+baalizmy/alimy = baz
+
+word = baasizm
+NO MATCHES
+
+word = baasizmach
+baasizmach/baasizm = ach
+
+word = baasizmami
+baasizmami/mai = baasizm
+
+word = baasizmem
+baasizmem/me = baasizm
+baasizmem/em = baasizm
+baasizmem/baasizm = em
+
+word = baasizmie
+NO MATCHES
+
+word = baasizmom
+baasizmom/om = baasizm
+baasizmom/baasizm = om
+
+word = baasizmowi
+baasizmowi/owi = baasizm
+baasizmowi/baasizm = owi
+
+word = baasizmów
+baasizmów/ów = baasizm
+baasizmów/baasizm = ów
+
+word = baasizmu
+NO MATCHES
+
+word = baasizmy
+NO MATCHES
+
+word = bab
+NO MATCHES
+
+word = baba
+baba/ba = ba
+
+word = babach
+babach/ba = bach
+babach/bab = ach
+babach/bach = ba
+
+word = babakocie
+babakocie/baba = kocie
+babakocie/babo = akcie
+babakocie/bako = bacie
+babakocie/abak = bocie
+babakocie/kocie = baba
+babakocie/babko = acie
+babakocie/bacie = bako
+babakocie/bocie = abak
+
+word = babakot
+babakot/kot = baba
+babakot/bat = bako
+babakot/bot = abak
+babakot/baba = kot
+babakot/babo = akt
+babakot/bako = bat
+babakot/abak = bot
+babakot/babko = at
+
+word = babakota
+babakota/bot = abaka
+babakota/kota = baba
+babakota/baba = kota
+babakota/babo = akta
+babakota/bako = bata
+babakota/bata = bako
+babakota/bota = abak
+babakota/abak = bota
+babakota/babko = ata
+babakota/abaka = bot
+
+word = babakotach
+babakotach/bot = abakach
+babakotach/kota = babach
+babakotach/baba = kotach
+babakotach/babo = aktach
+babakotach/bako = batach
+babakotach/abak = botach
+babakotach/babko = atach
+babakotach/kotach = baba
+babakotach/babach = kota
+babakotach/batach = bako
+babakotach/botach = abak
+babakotach/babakot = ach
+babakotach/abakach = bot
+
+word = babakotami
+babakotami/mi = babakota
+babakotami/bot = abakami
+babakotami/kota = babami
+babakotami/baba = kotami
+babakotami/babo = aktami
+babakotami/bako = batami
+babakotami/abak = botami
+babakotami/babko = atami
+babakotami/kotami = baba
+babakotami/babami = kota
+babakotami/batami = bako
+babakotami/botami = abak
+babakotami/abakami = bot
+babakotami/babakota = mi
+
+word = babakotem
+babakotem/em = babakot
+babakotem/baba = kotem
+babakotem/babo = aktem
+babakotem/bako = batem
+babakotem/abak = botem
+babakotem/kotem = baba
+babakotem/babko = atem
+babakotem/batem = bako
+babakotem/botem = abak
+babakotem/babkom = ate
+babakotem/babakot = em
+
+word = babakoto
+babakoto/bot = abako
+babakoto/koto = baba
+babakoto/baba = koto
+
+word = babakotom
+babakotom/bot = abakom
+babakotom/baba = kotom
+babakotom/babo = aktom
+babakotom/bako = batom
+babakotom/abak = botom
+babakotom/kotom = baba
+babakotom/babko = atom
+babakotom/batom = bako
+babakotom/botom = abak
+babakotom/babakot = om
+
+word = babakotu
+babakotu/bot = abaku
+babakotu/kotu = baba
+babakotu/baba = kotu
+babakotu/babo = aktu
+babakotu/bako = batu
+babakotu/batu = bako
+babakotu/botu = abak
+babakotu/abak = botu
+babakotu/babko = atu
+babakotu/abaku = bot
+
+word = babami
+babami/mi = baba
+babami/bai = bam
+babami/bam = bai
+babami/baba = mi
+
+word = babą
+NO MATCHES
+
+word = babbicie
+babbicie/bab = bicie
+babbicie/babcie = bi
+
+word = babbit
+babbit/bab = bit
+
+word = babbitach
+babbitach/bab = bitach
+babbitach/bit = abbach
+babbitach/babach = bit
+babbitach/babbit = ach
+babbitach/abbach = bit
+
+word = babbitami
+babbitami/bab = bitami
+babbitami/bit = abbami
+babbitami/babami = bit
+babbitami/abbami = bit
+
+word = babbitem
+babbitem/em = babbit
+babbitem/bab = bitem
+babbitem/babbit = em
+
+word = babbitom
+babbitom/om = babbit
+babbitom/bab = bitom
+babbitom/bit = abbom
+babbitom/babom = bit
+babbitom/abbom = bit
+babbitom/babbit = om
+
+word = babbitowi
+babbitowi/owi = babbit
+babbitowi/bab = bitowi
+babbitowi/babbit = owi
+
+word = babbitów
+babbitów/ów = babbit
+babbitów/bab = bitów
+babbitów/bit = abbów
+babbitów/babów = bit
+babbitów/abbów = bit
+babbitów/babbit = ów
+
+word = babbitu
+babbitu/bab = bitu
+
+word = babbity
+babbity/bab = bity
+babbity/bit = abby
+babbity/baby = bit
+babbity/abby = bit
+
+word = babbityzm
+NO MATCHES
+
+word = babbityzmach
+babbityzmach/babbityzm = ach
+
+word = babbityzmami
+babbityzmami/mai = babbityzm
+babbityzmami/zmami = babbity
+babbityzmami/babbity = zmami
+
+word = babbityzmem
+babbityzmem/me = babbityzm
+babbityzmem/em = babbityzm
+babbityzmem/babbityzm = em
+
+word = babbityzmie
+NO MATCHES
+
+word = babbityzmom
+babbityzmom/om = babbityzm
+babbityzmom/babbityzm = om
+
+word = babbityzmowi
+babbityzmowi/owi = babbityzm
+babbityzmowi/babbityzm = owi
+
+word = babbityzmów
+babbityzmów/ów = babbityzm
+babbityzmów/zmów = babbity
+babbityzmów/babbity = zmów
+babbityzmów/babbityzm = ów
+
+word = babbityzmu
+NO MATCHES
+
+word = babbityzmy
+NO MATCHES
+
+word = babce
+babce/ce = bab
+babce/bab = ce
+
+word = babci
+babci/ci = bab
+babci/bab = ci
+
+word = babcia
+babcia/ci = baba
+babcia/baba = ci
+babcia/baca = bi
+
+word = babciach
+babciach/ci = babach
+babciach/bab = ciach
+babciach/ciach = bab
+babciach/babci = ach
+babciach/babach = ci
+babciach/bacach = bi
+
+word = babciami
+babciami/mi = babcia
+babciami/ci = babami
+babciami/babami = ci
+babciami/babcia = mi
+babciami/bacami = bi
+
+word = babcią
+babcią/ci = babą
+babcią/babą = ci
+babcią/bacą = bi
+
+word = babcie
+babcie/ce = babi
+babcie/cie = bab
+babcie/bab = cie
+babcie/babi = ce
+babcie/bace = bi
+
+word = babcię
+babcię/ci = babę
+babcię/cię = bab
+babcię/bab = cię
+babcię/babę = ci
+babcię/bacę = bi
+
+word = babcin
+NO MATCHES
+
+word = babcina
+babcina/na = babci
+babcina/cna = babi
+babcina/babi = cna
+babcina/baca = bin
+babcina/babci = na
+
+word = babciną
+babciną/cną = babi
+babciną/babi = cną
+babciną/bacą = bin
+
+word = babcince
+babcince/babcin = ce
+
+word = babcine
+babcine/in = babce
+babcine/ce = babin
+babcine/cne = babi
+babcine/babi = cne
+babcine/bace = bin
+babcine/babce = in
+babcine/babin = ce
+
+word = babcinego
+babcinego/go = babcine
+babcinego/ego = babcin
+babcinego/babi = cnego
+babcinego/bace = bingo
+babcinego/cnego = babi
+babcinego/babcin = ego
+babcinego/babcine = go
+
+word = babcinej
+babcinej/ej = babcin
+babcinej/cnej = babi
+babcinej/babi = cnej
+babcinej/babcin = ej
+
+word = babcinek
+babcinek/ink = babce
+babcinek/cek = babin
+babcinek/babce = ink
+babcinek/babin = cek
+
+word = babcinemu
+babcinemu/mu = babcine
+babcinemu/nem = babciu
+babcinemu/emu = babcin
+babcinemu/nemu = babci
+babcinemu/babi = cnemu
+babcinemu/cnemu = babi
+babcinemu/babci = nemu
+babcinemu/babcin = emu
+babcinemu/babciu = nem
+babcinemu/babcine = mu
+
+word = babcini
+babcini/ni = babci
+babcini/in = babci
+babcini/cni = babi
+babcini/babi = cni
+babcini/babci = ni
+babcini/babin = ci
+
+word = babcinka
+babcinka/ka = babcin
+babcinka/babcin = ka
+
+word = babcinkach
+babcinkach/cinch = babka
+babcinkach/babka = cinch
+
+word = babcinkami
+babcinkami/mi = babcinka
+babcinkami/kam = babcini
+babcinkami/kami = babcin
+babcinkami/babcin = kami
+babcinkami/babcini = kam
+babcinkami/babcinka = mi
+
+word = babcinką
+NO MATCHES
+
+word = babcinkę
+NO MATCHES
+
+word = babcinki
+babcinki/ki = babcin
+babcinki/ink = babci
+babcinki/babcin = ki
+
+word = babcinko
+babcinko/ko = babcin
+babcinko/babcin = ko
+
+word = babcinkom
+babcinkom/kom = babcin
+babcinkom/babcin = kom
+
+word = babciny
+babciny/ny = babci
+babciny/cny = babi
+babciny/babi = cny
+babciny/bacy = bin
+babciny/babci = ny
+
+word = babcinych
+babcinych/cny = babich
+babcinych/babi = cnych
+babcinych/baby = cinch
+babcinych/cinch

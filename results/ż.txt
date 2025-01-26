@@ -1,0 +1,258 @@
+word = żab
+NO MATCHES
+
+word = żaba
+NO MATCHES
+
+word = żabach
+żabach/żab = ach
+
+word = żabami
+żabami/mi = żaba
+żabami/żaba = mi
+
+word = żabą
+NO MATCHES
+
+word = żabce
+żabce/ce = żab
+żabce/żab = ce
+
+word = żabci
+żabci/ci = żab
+żabci/żab = ci
+
+word = żabcia
+żabcia/ci = żaba
+żabcia/żaba = ci
+
+word = żabciach
+żabciach/ci = żabach
+żabciach/żab = ciach
+żabciach/żabci = ach
+żabciach/ciach = żab
+żabciach/żabach = ci
+
+word = żabciami
+żabciami/mi = żabcia
+żabciami/ci = żabami
+żabciami/żabami = ci
+żabciami/żabcia = mi
+
+word = żabcią
+żabcią/ci = żabą
+żabcią/żabą = ci
+
+word = żabcie
+żabcie/ce = żabi
+żabcie/żab = cie
+żabcie/cie = żab
+żabcie/żabi = ce
+
+word = żabcię
+żabcię/ci = żabę
+żabcię/żab = cię
+żabcię/cię = żab
+żabcię/żabę = ci
+
+word = żabciom
+żabciom/om = żabci
+żabciom/ci = żabom
+żabciom/co = żabim
+żabciom/com = żabi
+żabciom/żabi = com
+żabciom/żabci = om
+żabciom/żabim = co
+żabciom/żabom = ci
+
+word = żabciu
+NO MATCHES
+
+word = żabć
+NO MATCHES
+
+word = żabeczce
+NO MATCHES
+
+word = żabeczek
+żabeczek/be = żaczek
+żabeczek/cze = żabek
+żabeczek/żabek = cze
+żabeczek/żaczek = be
+
+word = żabeczka
+żabeczka/be = żaczka
+żabeczka/żaka = becz
+żabeczka/becz = żaka
+żabeczka/żaczka = be
+
+word = żabeczkach
+żabeczkach/be = żaczkach
+żabeczkach/becz = żakach
+żabeczkach/żabek = czach
+żabeczkach/czach = żabek
+żabeczkach/żakach = becz
+żabeczkach/żaczkach = be
+
+word = żabeczkami
+żabeczkami/mi = żabeczka
+żabeczkami/be = żaczkami
+żabeczkami/becz = żakami
+żabeczkami/żakami = becz
+żabeczkami/żabeczka = mi
+żabeczkami/żaczkami = be
+
+word = żabeczką
+żabeczką/żak = beczą
+żabeczką/beczą = żak
+
+word = żabeczkę
+żabeczkę/żak = beczę
+żabeczkę/beczę = żak
+
+word = żabeczki
+żabeczki/be = żaczki
+żabeczki/czi = żabek
+żabeczki/żaki = becz
+żabeczki/becz = żaki
+żabeczki/żabek = czi
+żabeczki/żaczki = be
+
+word = żabeczko
+żabeczko/żako = becz
+żabeczko/becz = żako
+
+word = żabeczkom
+żabeczkom/be = żaczkom
+żabeczkom/becz = żakom
+żabeczkom/żakom = becz
+żabeczkom/żaczkom = be
+
+word = żabek
+żabek/be = żak
+żabek/żak = be
+
+word = żabę
+NO MATCHES
+
+word = żabi
+NO MATCHES
+
+word = żabia
+NO MATCHES
+
+word = żabią
+NO MATCHES
+
+word = żabich
+żabich/żab = ich
+żabich/ich = żab
+
+word = żabie
+NO MATCHES
+
+word = żabiego
+żabiego/go = żabie
+żabiego/ego = żabi
+żabiego/żabi = ego
+żabiego/żabie = go
+
+word = żabiej
+żabiej/ej = żabi
+żabiej/żabi = ej
+
+word = żabiemu
+żabiemu/mu = żabie
+żabiemu/emu = żabi
+żabiemu/żabi = emu
+żabiemu/żabie = mu
+
+word = żabienic
+żabienic/nic = żabie
+żabienic/żabie = nic
+
+word = żabienica
+żabienica/nica = żabie
+żabienica/żabie = nica
+
+word = żabienicach
+żabienicach/żabie = nicach
+żabienicach/nicach = żabie
+żabienicach/żabienic = ach
+
+word = żabienicami
+żabienicami/mi = żabienica
+żabienicami/żabie = nicami
+żabienicami/nicami = żabie
+żabienicami/żabienica = mi
+
+word = żabienicą
+żabienicą/nicą = żabie
+żabienicą/żabie = nicą
+
+word = żabienice
+żabienice/nice = żabie
+żabienice/żabie = nice
+
+word = żabienicę
+żabienicę/nicę = żabie
+żabienicę/żabie = nicę
+
+word = żabienico
+żabienico/nico = żabie
+żabienico/żabie = nico
+
+word = żabienicom
+żabienicom/om = żabienic
+żabienicom/żabie = nicom
+żabienicom/nicom = żabie
+żabienicom/żabienic = om
+
+word = żabienicy
+żabienicy/nicy = żabie
+żabienicy/żabie = nicy
+
+word = żabieniec
+NO MATCHES
+
+word = żabieńca
+NO MATCHES
+
+word = żabieńcach
+NO MATCHES
+
+word = żabieńcami
+żabieńcami/mi = żabieńca
+żabieńcami/żabieńca = mi
+
+word = żabieńce
+NO MATCHES
+
+word = żabieńcem
+NO MATCHES
+
+word = żabieńcom
+NO MATCHES
+
+word = żabieńcowaci
+NO MATCHES
+
+word = żabieńcowata
+NO MATCHES
+
+word = żabieńcowatą
+NO MATCHES
+
+word = żabieńcowate
+NO MATCHES
+
+word = żabieńcowatego
+żabieńcowatego/go = żabieńcowate
+żabieńcowatego/żabieńcowate = go
+
+word = żabieńcowatej
+NO MATCHES
+
+word = żabieńcowatemu
+żabieńcowatemu/mu = żabieńcowate
+żabieńcowa

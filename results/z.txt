@@ -1,0 +1,75 @@
+word = za
+NO MATCHES
+
+word = zaabonować
+zaabonować/za = abonować
+zaabonować/abonować = za
+
+word = zaabonowali
+zaabonowali/za = abonowali
+zaabonowali/abonowali = za
+
+word = zaabonowaliby
+zaabonowaliby/za = abonowaliby
+zaabonowaliby/zaabonowali = by
+zaabonowaliby/abonowaliby = za
+
+word = zaabonowaliście
+zaabonowaliście/za = abonowaliście
+zaabonowaliście/abonowaliście = za
+
+word = zaabonowaliśmy
+zaabonowaliśmy/za = abonowaliśmy
+zaabonowaliśmy/abonowaliśmy = za
+
+word = zaabonował
+zaabonował/za = abonował
+zaabonował/abonował = za
+
+word = zaabonowała
+zaabonowała/za = abonowała
+zaabonowała/abonowała = za
+
+word = zaabonowałaby
+zaabonowałaby/za = abonowałaby
+zaabonowałaby/zaabonował = aby
+zaabonowałaby/zaabonowała = by
+zaabonowałaby/abonowałaby = za
+
+word = zaabonowałabym
+zaabonowałabym/za = abonowałabym
+zaabonowałabym/zaabonował = abym
+zaabonowałabym/zaabonowała = bym
+zaabonowałabym/zaabonowałam = by
+zaabonowałabym/abonowałabym = za
+
+word = zaabonowałabyś
+zaabonowałabyś/za = abonowałabyś
+zaabonowałabyś/zaś = abonowałaby
+zaabonowałabyś/zaabonował = abyś
+zaabonowałabyś/zaabonowała = byś
+zaabonowałabyś/abonowałaby = zaś
+zaabonowałabyś/zaabonowałaś = by
+zaabonowałabyś/abonowałabyś = za
+
+word = zaabonowałam
+zaabonowałam/za = abonowałam
+zaabonowałam/abonowałam = za
+
+word = zaabonowałaś
+zaabonowałaś/za = abonowałaś
+zaabonowałaś/zaś = abonowała
+zaabonowałaś/abonowała = zaś
+zaabonowałaś/abonowałaś = za
+
+word = zaabonowałby
+zaabonowałby/za = abonowałby
+zaabonowałby/zaabonował = by
+zaabonowałby/abonowałby = za
+
+word = zaabonowałbym
+zaabonowałbym/za = abonowałbym
+zaabonowałbym/zaabonował = bym
+zaabonowałbym/abonowałbym = za
+
+wo

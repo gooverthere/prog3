@@ -1,0 +1,314 @@
+word = na
+NO MATCHES
+
+word = nabab
+nabab/na = bab
+nabab/bab = na
+
+word = nababa
+nababa/na = baba
+nababa/baba = na
+nababa/abba = na
+
+word = nababach
+nababach/na = babach
+nababach/nabab = ach
+nababach/babach = na
+nababach/abbach = na
+
+word = nababami
+nababami/na = babami
+nababami/mi = nababa
+nababami/nami = baba
+nababami/baba = nami
+nababami/abba = nami
+nababami/nababa = mi
+nababami/babami = na
+nababami/abbami = na
+
+word = nababem
+nababem/em = nabab
+nababem/nabab = em
+
+word = nababie
+nababie/na = babie
+nababie/babie = na
+nababie/abbie = na
+
+word = nababom
+nababom/om = nabab
+nababom/na = babom
+nababom/nam = babo
+nababom/babo = nam
+nababom/abbo = nam
+nababom/nabab = om
+nababom/babom = na
+nababom/abbom = na
+
+word = nababowi
+nababowi/owi = nabab
+nababowi/baw = naboi
+nababowi/nabab = owi
+nababowi/nabaw = boi
+nababowi/nabawi = bo
+
+word = nababowie
+nababowie/na = babowie
+nababowie/babo = nawie
+nababowie/abbo = nawie
+nababowie/nawie = babo
+nababowie/babowie = na
+nababowie/abbowie = na
+
+word = nababów
+nababów/ów = nabab
+nababów/na = babów
+nababów/nabab = ów
+nababów/babów = na
+nababów/abbów = na
+
+word = nababy
+nababy/na = baby
+nababy/baby = na
+nababy/abby = na
+
+word = nabaj
+nabaj/na = baj
+nabaj/ba = naj
+nabaj/naj = ba
+nabaj/baj = na
+
+word = nabaja
+nabaja/na = baja
+nabaja/baja = na
+
+word = nabajacie
+nabajacie/na = bajacie
+nabajacie/cie = nabaja
+nabajacie/njai = abace
+nabajacie/baja = nacie
+nabajacie/nabaj = acie
+nabajacie/nacie = baja
+nabajacie/abace = njai
+nabajacie/nabaja = cie
+nabajacie/bajacie = na
+
+word = nabajać
+nabajać/na = bajać
+nabajać/nać = baja
+nabajać/baja = nać
+nabajać/bajać = na
+
+word = nabajaj
+nabajaj/na = bajaj
+nabajaj/ja = nabaj
+nabajaj/baja = naj
+nabajaj/nabaj = aj
+nabajaj/bajaj = na
+
+word = nabajają
+nabajają/na = bajają
+nabajają/ja = nabają
+nabajają/nabaja = ją
+nabajają/nabają = aj
+nabajają/bajają = na
+
+word = nabajajcie
+nabajajcie/na = bajajcie
+nabajajcie/ja = nabajcie
+nabajajcie/cie = nabajaj
+nabajajcie/njaj = abacie
+nabajajcie/nacie = bajaj
+nabajajcie/njaje = abaci
+nabajajcie/jacie = nabaj
+nabajajcie/bajaj = nacie
+nabajajcie/abaci = njaje
+nabajajcie/abacie = njaj
+nabajajcie/nabajaj = cie
+nabajajcie/bajacie = naj
+nabajajcie/nabajcie = aj
+nabajajcie/bajajcie = na
+
+word = nabajajcież
+nabajajcież/na = bajajcież
+nabajajcież/ja = nabajcież
+nabajajcież/nabajcież = aj
+nabajajcież/bajajcież = na
+
+word = nabajajmy
+nabajajmy/na = bajajmy
+nabajajmy/my = nabajaj
+nabajajmy/ja = nabajmy
+nabajajmy/jamy = nabaj
+nabajajmy/baja = najmy
+nabajajmy/bajamy = naj
+nabajajmy/nabajaj = my
+nabajajmy/nabajmy = aj
+nabajajmy/bajajmy = na
+
+word = nabajajmyż
+nabajajmyż/na = bajajmyż
+nabajajmyż/ja = nabajmyż
+nabajajmyż/nabajmyż = aj
+nabajajmyż/bajajmyż = na
+
+word = nabajajże
+nabajajże/że = nabajaj
+nabajajże/na = bajajże
+nabajajże/ja = nabajże
+nabajajże/nabajaj = że
+nabajajże/nabajże = aj
+nabajajże/bajajże = na
+
+word = nabajali
+nabajali/na = bajali
+nabajali/li = nabaja
+nabajali/nabaj = ali
+nabajali/nabli = aja
+nabajali/nabaja = li
+nabajali/bajali = na
+
+word = nabajaliby
+nabajaliby/na = bajaliby
+nabajaliby/nabajali = by
+nabajaliby/bajaliby = na
+
+word = nabajalibyście
+nabajalibyście/na = bajalibyście
+nabajalibyście/naście = bajaliby
+nabajalibyście/nabajali = byście
+nabajalibyście/bajaliby = naście
+nabajalibyście/nabajaliście = by
+nabajalibyście/bajalibyście = na
+
+word = nabajalibyśmy
+nabajalibyśmy/na = bajalibyśmy
+nabajalibyśmy/nabajali = byśmy
+nabajalibyśmy/nabajaliśmy = by
+nabajalibyśmy/bajalibyśmy = na
+
+word = nabajaliście
+nabajaliście/na = bajaliście
+nabajaliście/nabaja = liście
+nabajaliście/nabaje = aliści
+nabajaliście/naście = bajali
+nabajaliście/liście = nabaja
+nabajaliście/bajali = naście
+nabajaliście/bajaliście = na
+
+word = nabajaliśmy
+nabajaliśmy/na = bajaliśmy
+nabajaliśmy/bajaliśmy = na
+
+word = nabajał
+nabajał/na = bajał
+nabajał/bajał = na
+
+word = nabajała
+nabajała/na = bajała
+nabajała/bajała = na
+
+word = nabajałaby
+nabajałaby/na = bajałaby
+nabajałaby/łaby = nabaja
+nabajałaby/nabaja = łaby
+nabajałaby/nabajał = aby
+nabajałaby/nabajała = by
+nabajałaby/bajałaby = na
+
+word = nabajałabym
+nabajałabym/na = bajałabym
+nabajałabym/nam = bajałaby
+nabajałabym/łaby = nabajam
+nabajałabym/nabajał = abym
+nabajałabym/nabajam = łaby
+nabajałabym/nabajała = bym
+nabajałabym/bajałaby = nam
+nabajałabym/nabajałam = by
+nabajałabym/bajałabym = na
+
+word = nabajałabyś
+nabajałabyś/na = bajałabyś
+nabajałabyś/nabajał = abyś
+nabajałabyś/nabajała = byś
+nabajałabyś/nabajałaś = by
+nabajałabyś/bajałabyś = na
+
+word = nabajałam
+nabajałam/na = bajałam
+nabajałam/nam = bajała
+nabajałam/łam = nabaja
+nabajałam/baja = nałam
+nabajałam/nałam = baja
+nabajałam/nabaja = łam
+nabajałam/bajała = nam
+nabajałam/bajałam = na
+
+word = nabajałaś
+nabajałaś/na = bajałaś
+nabajałaś/łaś = nabaja
+nabajałaś/nabaja = łaś
+nabajałaś/bajałaś = na
+
+word = nabajałby
+nabajałby/na = bajałby
+nabajałby/łby = nabaja
+nabajałby/nabaja = łby
+nabajałby/nabajał = by
+nabajałby/bajałby = na
+
+word = nabajałbym
+nabajałbym/na = bajałbym
+nabajałbym/nam = bajałby
+nabajałbym/łby = nabajam
+nabajałbym/nabajał = bym
+nabajałbym/nabajam = łby
+nabajałbym/bajałby = nam
+nabajałbym/bajałbym = na
+
+word = nabajałbyś
+nabajałbyś/na = bajałbyś
+nabajałbyś/nabajał = byś
+nabajałbyś/bajałbyś = na
+
+word = nabajałem
+nabajałem/na = bajałem
+nabajałem/em = nabajał
+nabajałem/nabajał = em
+nabajałem/bajałem = na
+
+word = nabajałeś
+nabajałeś/na = bajałeś
+nabajałeś/eś = nabajał
+nabajałeś/nabajał = eś
+nabajałeś/bajałeś = na
+
+word = nabajało
+nabajało/na = bajało
+nabajało/bajało = na
+
+word = nabajałoby
+nabajałoby/na = bajałoby
+nabajałoby/oby = nabajał
+nabajałoby/nabajał = oby
+nabajałoby/nabajało = by
+nabajałoby/bajałoby = na
+
+word = nabajały
+nabajały/na = bajały
+nabajały/bajały = na
+
+word = nabajałyby
+nabajałyby/na = bajałyby
+nabajałyby/nabajały = by
+nabajałyby/bajałyby = na
+
+word = nabajałybyście
+nabajałybyście/na = bajałybyście
+nabajałybyście/naście = bajałyby
+nabajałybyście/nabajały = byście
+nabajałybyście/bajałyby = naście
+nabajałybyście/nabajałyście = by
+nabajałybyście/bajałybyście = na
+
+word 

@@ -1,0 +1,513 @@
+word = ka
+NO MATCHES
+
+word = kabab
+kabab/ka = bab
+kabab/bab = ka
+
+word = kababach
+kababach/ka = babach
+kababach/kabab = ach
+kababach/babach = ka
+kababach/abbach = ka
+
+word = kababami
+kababami/ka = babami
+kababami/kami = baba
+kababami/baba = kami
+kababami/abba = kami
+kababami/babami = ka
+kababami/abbami = ka
+
+word = kababem
+kababem/em = kabab
+kababem/bab = kaem
+kababem/bam = kabe
+kababem/kaem = bab
+kababem/kabab = em
+
+word = kababie
+kababie/ka = babie
+kababie/ba = kabie
+kababie/bai = kabe
+kababie/babie = ka
+kababie/abbie = ka
+
+word = kababom
+kababom/om = kabab
+kababom/ka = babom
+kababom/kam = babo
+kababom/babo = kam
+kababom/abbo = kam
+kababom/kabab = om
+kababom/babom = ka
+kababom/abbom = ka
+
+word = kababowi
+kababowi/owi = kabab
+kababowi/kawi = babo
+kababowi/babo = kawi
+kababowi/abbo = kawi
+kababowi/kabab = owi
+
+word = kababów
+kababów/ów = kabab
+kababów/ka = babów
+kababów/kabab = ów
+kababów/babów = ka
+kababów/abbów = ka
+
+word = kababu
+NO MATCHES
+
+word = kababy
+kababy/ka = baby
+kababy/baby = ka
+kababy/abby = ka
+
+word = kabaccy
+kabaccy/kac = bacy
+kabaccy/bacy = kac
+
+word = kabacie
+kabacie/ka = bacie
+kabacie/ki = abace
+kabacie/ba = kacie
+kabacie/bai = kace
+kabacie/kace = bai
+kabacie/kacie = ba
+kabacie/bacie = ka
+kabacie/abace = ki
+
+word = kabacik
+kabacik/ka = bacik
+kabacik/bak = kaci
+kabacik/kaci = bak
+kabacik/bacik = ka
+
+word = kabacika
+kabacika/ka = bacika
+kabacika/bak = kacia
+kabacika/kaci = baka
+kabacika/kaik = baca
+kabacika/baca = kaik
+kabacika/baka = kaci
+kabacika/kacia = bak
+kabacika/bacika = ka
+
+word = kabacikach
+kabacikach/ka = bacikach
+kabacikach/ich = kabacka
+kabacikach/kaci = bakach
+kabacikach/kaik = bacach
+kabacikach/baka = kacich
+kabacikach/kacich = baka
+kabacikach/bacach = kaik
+kabacikach/bakach = kaci
+kabacikach/kabacik = ach
+kabacikach/kabacka = ich
+kabacikach/bacikach = ka
+
+word = kabacikami
+kabacikami/mi = kabacika
+kabacikami/ka = bacikami
+kabacikami/kaci = bakami
+kabacikami/kaik = bacami
+kabacikami/kami = bacika
+kabacikami/baka = kacimi
+kabacikami/kacimi = baka
+kabacikami/bacami = kaik
+kabacikami/bacika = kami
+kabacikami/bakami = kaci
+kabacikami/kabacika = mi
+kabacikami/bacikami = ka
+
+word = kabaciki
+kabaciki/ka = baciki
+kabaciki/kaci = baki
+kabaciki/baki = kaci
+kabaciki/baciki = ka
+
+word = kabacikiem
+kabacikiem/ka = bacikiem
+kabacikiem/im = kabackie
+kabacikiem/em = kabaciki
+kabacikiem/kaci = bakiem
+kabacikiem/kaem = baciki
+kabacikiem/baciki = kaem
+kabacikiem/bakiem = kaci
+kabacikiem/kabacie = kim
+kabacikiem/kabaciki = em
+kabacikiem/kabackie = im
+kabacikiem/bacikiem = ka
+
+word = kabacikom
+kabacikom/om = kabacik
+kabacikom/ka = bacikom
+kabacikom/kaci = bakom
+kabacikom/kaik = bacom
+kabacikom/bako = kacim
+kabacikom/kacim = bako
+kabacikom/bacom = kaik
+kabacikom/bakom = kaci
+kabacikom/kabacik = om
+kabacikom/bacikom = ka
+
+word = kabacikowi
+kabacikowi/ka = bacikowi
+kabacikowi/owi = kabacik
+kabacikowi/kaci = bakowi
+kabacikowi/bakowi = kaci
+kabacikowi/kabacik = owi
+kabacikowi/bacikowi = ka
+
+word = kabacików
+kabacików/ów = kabacik
+kabacików/ka = bacików
+kabacików/kaci = baków
+kabacików/kaik = baców
+kabacików/baców = kaik
+kabacików/baków = kaci
+kabacików/kabacik = ów
+kabacików/bacików = ka
+
+word = kabaciku
+kabaciku/ka = baciku
+kabaciku/kaci = baku
+kabaciku/baku = kaci
+kabaciku/baciku = ka
+
+word = kabacka
+kabacka/kac = baka
+kabacka/bak = kaca
+kabacka/kaca = bak
+kabacka/baka = kac
+
+word = kabacką
+kabacką/kac = baką
+kabacką/baką = kac
+
+word = kabacki
+kabacki/kac = baki
+kabacki/bak = kaci
+kabacki/kaci = bak
+kabacki/baki = kac
+
+word = kabackich
+kabackich/bak = kacich
+kabackich/kacich = bak
+
+word = kabackie
+kabackie/bak = kacie
+kabackie/kace = baki
+kabackie/kaki = bace
+kabackie/bace = kaki
+kabackie/baki = kace
+kabackie/kacie = bak
+
+word = kabackiego
+kabackiego/go = kabackie
+kabackiego/ego = kabacki
+kabackiego/bak = kaciego
+kabackiego/kabacki = ego
+kabackiego/kaciego = bak
+kabackiego/kabackie = go
+
+word = kabackiej
+kabackiej/ej = kabacki
+kabackiej/bak = kaciej
+kabackiej/kaciej = bak
+kabackiej/kabacki = ej
+
+word = kabackiemu
+kabackiemu/mu = kabackie
+kabackiemu/emu = kabacki
+kabackiemu/bak = kaciemu
+kabackiemu/kacu = bakiem
+kabackiemu/bakiem = kacu
+kabackiemu/kabacki = emu
+kabackiemu/kaciemu = bak
+kabackiemu/kabackie = mu
+
+word = kabackim
+kabackim/bak = kacim
+kabackim/kacim = bak
+
+word = kabackimi
+kabackimi/mi = kabacki
+kabackimi/im = kabacki
+kabackimi/bak = kacimi
+kabackimi/kacim = baki
+kabackimi/kacimi = bak
+kabackimi/kabacki = mi
+
+word = kabacku
+kabacku/kac = baku
+kabacku/bak = kacu
+kabacku/kacu = bak
+kabacku/baku = kac
+
+word = kabaczek
+kabaczek/ka = baczek
+kabaczek/ba = kaczek
+kabaczek/bak = kacze
+kabaczek/kabek = acz
+kabaczek/kacze = bak
+kabaczek/kaczek = ba
+kabaczek/baczek = ka
+
+word = kabaczka
+kabaczka/ka = baczka
+kabaczka/ba = kaczka
+kabaczka/bak = kacza
+kabaczka/kacza = bak
+kabaczka/kaczka = ba
+kabaczka/baczka = ka
+
+word = kabaczkach
+kabaczkach/ka = baczkach
+kabaczkach/ba = kaczkach
+kabaczkach/kaczka = bach
+kabaczkach/kaczkach = ba
+kabaczkach/baczkach = ka
+
+word = kabaczkami
+kabaczkami/mi = kabaczka
+kabaczkami/ka = baczkami
+kabaczkami/ba = kaczkami
+kabaczkami/kami = baczka
+kabaczkami/baczka = kami
+kabaczkami/kabaczka = mi
+kabaczkami/kaczkami = ba
+kabaczkami/baczkami = ka
+
+word = kabaczki
+kabaczki/ka = baczki
+kabaczki/ba = kaczki
+kabaczki/kaki = bacz
+kabaczki/bacz = kaki
+kabaczki/kaczki = ba
+kabaczki/baczki = ka
+
+word = kabaczkiem
+kabaczkiem/ze = kabackim
+kabaczkiem/ka = baczkiem
+kabaczkiem/em = kabaczki
+kabaczkiem/kaem = baczki
+kabaczkiem/baczki = kaem
+kabaczkiem/kabackim = ze
+kabaczkiem/kabaczki = em
+kabaczkiem/baczkiem = ka
+
+word = kabaczkom
+kabaczkom/ka = baczkom
+kabaczkom/ba = kaczkom
+kabaczkom/bam = kaczko
+kabaczkom/kaczko = bam
+kabaczkom/kaczkom = ba
+kabaczkom/baczkom = ka
+
+word = kabaczkowi
+kabaczkowi/ka = baczkowi
+kabaczkowi/bawi = kaczko
+kabaczkowi/kaczko = bawi
+kabaczkowi/baczkowi = ka
+
+word = kabaczków
+kabaczków/ka = baczków
+kabaczków/baczków = ka
+
+word = kabaczku
+kabaczku/ka = baczku
+kabaczku/baczku = ka
+
+word = kabalarce
+kabalarce/kala = barce
+kabalarce/klar = abace
+kabalarce/bala = karce
+kabalarce/kabla = arce
+kabalarce/karce = bala
+kabalarce/barce = kala
+kabalarce/abace = klar
+
+word = kabalarek
+kabalarek/kala = barek
+kabalarek/kabla = arek
+kabalarek/barek = kala
+kabalarek/kabale = ark
+
+word = kabalarka
+kabalarka/kala = barka
+kabalarka/klar = abaka
+kabalarka/kabla = arka
+kabalarka/barka = kala
+kabalarka/abaka = klar
+
+word = kabalarkach
+kabalarkach/kala = barkach
+kabalarkach/klar = abakach
+kabalarkach/bala = karkach
+kabalarkach/abak = klarach
+kabalarkach/kabla = arkach
+kabalarkach/barka = kalach
+kabalarkach/kalach = barka
+kabalarkach/kablach = arka
+kabalarkach/karkach = bala
+kabalarkach/klarach = abak
+kabalarkach/barkach = kala
+kabalarkach/abakach = klar
+
+word = kabalarkami
+kabalarkami/mi = kabalarka
+kabalarkami/kala = barkami
+kabalarkami/klar = abakami
+kabalarkami/bala = karkami
+kabalarkami/abak = klarami
+kabalarkami/kabla = arkami
+kabalarkami/barka = kalami
+kabalarkami/kalami = barka
+kabalarkami/kablami = arka
+kabalarkami/karkami = bala
+kabalarkami/klarami = abak
+kabalarkami/barkami = kala
+kabalarkami/abakami = klar
+kabalarkami/kabalarka = mi
+
+word = kabalarką
+kabalarką/kala = barką
+kabalarką/klar = abaką
+kabalarką/kabla = arką
+kabalarką/barką = kala
+kabalarką/abaką = klar
+
+word = kabalarkę
+kabalarkę/kala = barkę
+kabalarkę/klar = abakę
+kabalarkę/kabla = arkę
+kabalarkę/barkę = kala
+kabalarkę/abakę = klar
+
+word = kabalarki
+kabalarki/kala = barki
+kabalarki/klar = abaki
+kabalarki/bala = karki
+kabalarki/kabla = arki
+kabalarki/karki = bala
+kabalarki/barki = kala
+kabalarki/abaki = klar
+
+word = kabalarko
+kabalarko/kala = barko
+kabalarko/klar = abako
+kabalarko/kabla = arko
+kabalarko/barko = kala
+kabalarko/abako = klar
+
+word = kabalarkom
+kabalarkom/kala = barkom
+kabalarkom/klar = abakom
+kabalarkom/bala = karkom
+kabalarkom/abak = klarom
+kabalarkom/kabla = arkom
+kabalarkom/kalam = barko
+kabalarkom/barko = kalam
+kabalarkom/karkom = bala
+kabalarkom/klarom = abak
+kabalarkom/barkom = kala
+kabalarkom/abakom = klar
+
+word = kabalarz
+kabalarz/karz = bala
+kabalarz/bala = karz
+
+word = kabalarza
+NO MATCHES
+
+word = kabalarzach
+kabalarzach/kabalarz = ach
+kabalarzach/kablarza = ach
+
+word = kabalarzami
+kabalarzami/mi = kabalarza
+kabalarzami/kabalarza = mi
+
+word = kabalarze
+kabalarze/kala = barze
+kabalarze/bala = karze
+kabalarze/kabla = arze
+kabalarze/karze = bala
+kabalarze/barze = kala
+
+word = kabalarzem
+kabalarzem/em = kabalarz
+kabalarzem/kalam = barze
+kabalarzem/barze = kalam
+kabalarzem/kabalarz = em
+
+word = kabalarzom
+kabalarzom/om = kabalarz
+kabalarzom/kabzo = alarm
+kabalarzom/kabalarz = om
+
+word = kabalarzowi
+kabalarzowi/owi = kabalarz
+kabalarzowi/kabalarz = owi
+
+word = kabalarzu
+kabalarzu/kablarz = au
+
+word = kabalarzy
+kabalarzy/bala = karzy
+kabalarzy/karzy = bala
+
+word = kabale
+kabale/ka = bale
+kabale/ba = kale
+kabale/kabe = al
+kabale/kale = ba
+kabale/bale = ka
+
+word = kabalista
+kabalista/ka = balista
+kabalista/lis = kabata
+kabalista/lit = kabasa
+kabalista/lisa = kabat
+kabalista/lita = kabas
+kabalista/kali = basta
+kabalista/kast = balia
+kabalista/bali = kasta
+kabalista/basa = kalit
+kabalista/abst = kalia
+kabalista/kabas = lita
+kabalista/kabat = lisa
+kabalista/kalit = basa
+kabalista/kasta = bali
+kabalista/balia = kast
+kabalista/basta = kali
+kabalista/absta = kali
+kabalista/kabasa = lit
+kabalista/kabata = lis
+kabalista/balista = ka
+
+word = kabalistach
+kabalistach/ka = balistach
+kabalistach/lis = kabatach
+kabalistach/lit = kabasach
+kabalistach/bas = kalitach
+kabalistach/kast = baliach
+kabalistach/bali = kastach
+kabalistach/abst = kaliach
+kabalistach/kabas = litach
+kabalistach/kabat = lisach
+kabalistach/kalit = basach
+kabalistach/lisach = kabat
+kabalistach/litach = kabas
+kabalistach/basach = kalit
+kabalistach/kastach = bali
+kabalistach/baliach = kast
+kabalistach/abstach = kali
+kabalistach/kabasach = lit
+kabalistach/kabatach = lis
+kabalistach/kalitach = bas
+kabalistach/balistach = ka
+

@@ -1,0 +1,545 @@
+word = rab
+NO MATCHES
+
+word = raba
+NO MATCHES
+
+word = rabab
+rabab/ba = rab
+
+word = rababach
+rababach/ba = rabach
+rababach/raba = bach
+rababach/bach = raba
+rababach/rabab = ach
+rababach/rabach = ba
+
+word = rababami
+rababami/ba = rabami
+rababami/rami = baba
+rababami/baba = rami
+rababami/abba = rami
+rababami/rabami = ba
+
+word = rababem
+rababem/em = rabab
+rababem/ba = rabem
+rababem/bam = rabe
+rababem/rabab = em
+
+word = rababie
+rababie/ba = rabie
+rababie/bai = rabe
+
+word = rababom
+rababom/om = rabab
+rababom/ba = rabom
+rababom/ram = babo
+rababom/raba = bom
+rababom/babo = ram
+rababom/abbo = ram
+rababom/rabab = om
+
+word = rababowi
+rababowi/ba = rabowi
+rababowi/owi = rabab
+rababowi/rabab = owi
+
+word = rababów
+rababów/ów = rabab
+rababów/ba = rabów
+rababów/rabab = ów
+
+word = rababu
+rababu/raba = bu
+
+word = rababy
+rababy/ba = raby
+rababy/rab = aby
+rababy/aby = rab
+rababy/raba = by
+
+word = rabaccy
+rabaccy/rac = bacy
+rabaccy/bacy = rac
+
+word = rabach
+rabach/rab = ach
+
+word = rabacie
+rabacie/re = abaci
+rabacie/ba = racie
+rabacie/rab = acie
+rabacie/rai = bace
+rabacie/cie = raba
+rabacie/bai = race
+rabacie/raba = cie
+rabacie/race = bai
+rabacie/bace = rai
+rabacie/racie = ba
+rabacie/abaci = re
+
+word = rabacja
+rabacja/ba = racja
+rabacja/rac = baja
+rabacja/raj = baca
+rabacja/baj = raca
+rabacja/raca = baj
+rabacja/baca = raj
+rabacja/baja = rac
+rabacja/racja = ba
+
+word = rabacjach
+rabacjach/ba = racjach
+rabacjach/rac = bajach
+rabacjach/raj = bacach
+rabacjach/baj = racach
+rabacjach/baca = rajch
+rabacjach/racja = bach
+rabacjach/rajch = baca
+rabacjach/racach = baj
+rabacjach/bacach = raj
+rabacjach/bajach = rac
+rabacjach/racjach = ba
+
+word = rabacjami
+rabacjami/mi = rabacja
+rabacjami/ba = racjami
+rabacjami/rac = bajami
+rabacjami/raj = bacami
+rabacjami/baj = racami
+rabacjami/racami = baj
+rabacjami/bacami = raj
+rabacjami/bajami = rac
+rabacjami/rabacja = mi
+rabacjami/racjami = ba
+
+word = rabacją
+rabacją/ba = racją
+rabacją/rac = bają
+rabacją/raj = bacą
+rabacją/baj = racą
+rabacją/racą = baj
+rabacją/bacą = raj
+rabacją/bają = rac
+rabacją/racją = ba
+
+word = rabacje
+rabacje/ba = racje
+rabacje/rac = baje
+rabacje/raj = bace
+rabacje/baj = race
+rabacje/race = baj
+rabacje/bace = raj
+rabacje/baje = rac
+rabacje/racje = ba
+
+word = rabację
+rabację/ba = rację
+rabację/rac = baję
+rabację/raj = bacę
+rabację/baj = racę
+rabację/racę = baj
+rabację/bacę = raj
+rabację/baję = rac
+rabację/rację = ba
+
+word = rabacji
+rabacji/ba = racji
+rabacji/racji = ba
+
+word = rabacjo
+rabacjo/ba = racjo
+rabacjo/rac = bajo
+rabacjo/raj = baco
+rabacjo/baj = raco
+rabacjo/raco = baj
+rabacjo/baco = raj
+rabacjo/bajo = rac
+rabacjo/racjo = ba
+
+word = rabacjom
+rabacjom/ba = racjom
+rabacjom/rac = bajom
+rabacjom/raj = bacom
+rabacjom/baj = racom
+rabacjom/bam = racjo
+rabacjom/racjo = bam
+rabacjom/racom = baj
+rabacjom/bacom = raj
+rabacjom/bajom = rac
+rabacjom/racjom = ba
+
+word = rabacka
+rabacka/rac = baka
+rabacka/rak = baca
+rabacka/bak = raca
+rabacka/raca = bak
+rabacka/baca = rak
+rabacka/baka = rac
+
+word = rabacką
+rabacką/rac = baką
+rabacką/rak = bacą
+rabacką/bak = racą
+rabacką/racą = bak
+rabacką/bacą = rak
+rabacką/baką = rac
+
+word = rabacki
+rabacki/rac = baki
+rabacki/baki = rac
+
+word = rabackich
+rabackich/kic = rabach
+rabackich/rabach = kic
+
+word = rabackie
+rabackie/rak = bacie
+rabackie/bak = racie
+rabackie/race = baki
+rabackie/raki = bace
+rabackie/bace = raki
+rabackie/baki = race
+rabackie/racie = bak
+rabackie/bacie = rak
+
+word = rabackiego
+rabackiego/go = rabackie
+rabackiego/ego = rabacki
+rabackiego/rabacki = ego
+rabackiego/rabackie = go
+
+word = rabackiej
+rabackiej/ej = rabacki
+rabackiej/bace = rakij
+rabackiej/rakij = bace
+rabackiej/rabacki = ej
+
+word = rabackiemu
+rabackiemu/mu = rabackie
+rabackiemu/emu = rabacki
+rabackiemu/rabacki = emu
+rabackiemu/rabackie = mu
+
+word = rabackim
+NO MATCHES
+
+word = rabackimi
+rabackimi/mi = rabacki
+rabackimi/im = rabacki
+rabackimi/rabacki = mi
+
+word = rabacku
+rabacku/rac = baku
+rabacku/baku = rac
+
+word = rabacyj
+rabacyj/ba = racyj
+rabacyj/raj = bacy
+rabacyj/baj = racy
+rabacyj/racy = baj
+rabacyj/bacy = raj
+rabacyj/racyj = ba
+
+word = rabami
+rabami/mi = raba
+rabami/ba = rami
+rabami/rai = bam
+rabami/ram = bai
+rabami/bai = ram
+rabami/bam = rai
+rabami/raba = mi
+rabami/rami = ba
+
+word = raban
+raban/ba = ran
+raban/ran = ba
+
+word = rabanach
+rabanach/na = rabach
+rabanach/ba = ranach
+rabanach/rana = bach
+rabanach/bach = rana
+rabanach/raban = ach
+rabanach/rabach = na
+rabanach/ranach = ba
+
+word = rabanami
+rabanami/na = rabami
+rabanami/ba = ranami
+rabanami/raba = nami
+rabanami/rami = bana
+rabanami/nami = raba
+rabanami/bana = rami
+rabanami/rabami = na
+rabanami/ranami = ba
+
+word = rabancie
+rabancie/ba = rancie
+rabancie/rab = ancie
+rabancie/rac = banie
+rabancie/rai = bance
+rabancie/ran = bacie
+rabancie/cie = raban
+rabancie/bai = rance
+rabancie/ban = racie
+rabancie/race = bani
+rabancie/rani = bace
+rabancie/bace = rani
+rabancie/bani = race
+rabancie/raban = cie
+rabancie/racie = ban
+rabancie/rance = bai
+rabancie/bacie = ran
+rabancie/bance = rai
+rabancie/banie = rac
+rabancie/rancie = ba
+
+word = rabanem
+rabanem/em = raban
+rabanem/ba = ranem
+rabanem/nem = raba
+rabanem/raba = nem
+rabanem/raban = em
+rabanem/ranem = ba
+
+word = rabanie
+rabanie/ba = ranie
+rabanie/nie = raba
+rabanie/raba = nie
+rabanie/rabe = ani
+rabanie/ranie = ba
+
+word = rabanom
+rabanom/om = raban
+rabanom/ba = ranom
+rabanom/ram = bano
+rabanom/nom = raba
+rabanom/bam = rano
+rabanom/raba = nom
+rabanom/rano = bam
+rabanom/bano = ram
+rabanom/raban = om
+rabanom/ranom = ba
+
+word = rabanowi
+rabanowi/owi = raban
+rabanowi/raba = nowi
+rabanowi/rano = bawi
+rabanowi/nowi = raba
+rabanowi/bawi = rano
+rabanowi/raban = owi
+
+word = rabanów
+rabanów/ów = raban
+rabanów/nów = raba
+rabanów/raba = nów
+rabanów/raban = ów
+
+word = rabant
+rabant/ba = rant
+rabant/rab = ant
+rabant/ran = bat
+rabant/rat = ban
+rabant/ban = rat
+rabant/bat = ran
+rabant/rant = ba
+
+word = rabantach
+rabantach/ba = rantach
+rabantach/rab = antach
+rabantach/ran = batach
+rabantach/rat = banach
+rabantach/ban = ratach
+rabantach/bat = ranach
+rabantach/bata = ranch
+rabantach/ranch = bata
+rabantach/rabant = ach
+rabantach/ranach = bat
+rabantach/ratach = ban
+rabantach/banach = rat
+rabantach/batach = ran
+rabantach/rantach = ba
+
+word = rabantami
+rabantami/ba = rantami
+rabantami/rab = antami
+rabantami/ran = batami
+rabantami/rat = banami
+rabantami/ban = ratami
+rabantami/bat = ranami
+rabantami/rami = banta
+rabantami/nami = rabat
+rabantami/rabat = nami
+rabantami/banta = rami
+rabantami/ranami = bat
+rabantami/ratami = ban
+rabantami/banami = rat
+rabantami/batami = ran
+rabantami/rantami = ba
+
+word = rabantem
+rabantem/em = rabant
+rabantem/ba = rantem
+rabantem/ran = batem
+rabantem/rat = banem
+rabantem/nem = rabat
+rabantem/bat = ranem
+rabantem/rabat = nem
+rabantem/rabem = ant
+rabantem/ranem = bat
+rabantem/banem = rat
+rabantem/batem = ran
+rabantem/rabant = em
+rabantem/rantem = ba
+
+word = rabantom
+rabantom/om = rabant
+rabantom/ba = rantom
+rabantom/tom = raban
+rabantom/rab = antom
+rabantom/ran = batom
+rabantom/rat = banom
+rabantom/nom = rabat
+rabantom/ban = ratom
+rabantom/bat = ranom
+rabantom/raban = tom
+rabantom/rabat = nom
+rabantom/rabom = ant
+rabantom/ranom = bat
+rabantom/ratom = ban
+rabantom/banom = rat
+rabantom/batom = ran
+rabantom/rabant = om
+rabantom/rantom = ba
+
+word = rabantowi
+rabantowi/ba = rantowi
+rabantowi/ran = batowi
+rabantowi/rat = banowi
+rabantowi/owi = rabant
+rabantowi/nowi = rabat
+rabantowi/rabat = nowi
+rabantowi/rabant = owi
+rabantowi/rabowi = ant
+rabantowi/banowi = rat
+rabantowi/batowi = ran
+rabantowi/rantowi = ba
+
+word = rabantów
+rabantów/ów = rabant
+rabantów/ba = rantów
+rabantów/ran = batów
+rabantów/rat = banów
+rabantów/nów = rabat
+rabantów/rabat = nów
+rabantów/rabów = ant
+rabantów/banów = rat
+rabantów/batów = ran
+rabantów/rabant = ów
+rabantów/rantów = ba
+
+word = rabantu
+rabantu/tu = raban
+rabantu/nu = rabat
+rabantu/ba = rantu
+rabantu/ran = batu
+rabantu/rat = banu
+rabantu/bat = ranu
+rabantu/ranu = bat
+rabantu/banu = rat
+rabantu/batu = ran
+rabantu/raban = tu
+rabantu/rabat = nu
+rabantu/rantu = ba
+
+word = rabanty
+rabanty/ty = raban
+rabanty/ny = rabat
+rabanty/ba = ranty
+rabanty/rab = anty
+rabanty/ran = baty
+rabanty/rat = bany
+rabanty/ban = raty
+rabanty/bat = rany
+rabanty/aby = rant
+rabanty/raby = ant
+rabanty/rany = bat
+rabanty/raty = ban
+rabanty/bany = rat
+rabanty/baty = ran
+rabanty/raban = ty
+rabanty/rabat = ny
+rabanty/ranty = ba
+
+word = rabanu
+rabanu/nu = raba
+rabanu/ba = ranu
+rabanu/raba = nu
+rabanu/ranu = ba
+
+word = rabany
+rabany/ny = raba
+rabany/ba = rany
+rabany/aby = ran
+rabany/raba = ny
+rabany/rany = ba
+
+word = rabarbar
+NO MATCHES
+
+word = rabarbarach
+rabarbarach/rabarbar = ach
+
+word = rabarbarami
+NO MATCHES
+
+word = rabarbarem
+rabarbarem/em = rabarbar
+rabarbarem/rabarbar = em
+
+word = rabarbarom
+rabarbarom/om = rabarbar
+rabarbarom/ram = barbaro
+rabarbarom/barbaro = ram
+rabarbarom/rabarbar = om
+
+word = rabarbarowa
+rabarbarowa/owa = rabarbar
+rabarbarowa/rabarbar = owa
+
+word = rabarbarową
+rabarbarową/ową = rabarbar
+rabarbarową/rabarbar = ową
+
+word = rabarbarowe
+rabarbarowe/owe = rabarbar
+rabarbarowe/rabarbar = owe
+
+word = rabarbarowego
+rabarbarowego/go = rabarbarowe
+rabarbarowego/owego = rabarbar
+rabarbarowego/rabarbar = owego
+rabarbarowego/rabarbarowe = go
+
+word = rabarbarowej
+rabarbarowej/owej = rabarbar
+rabarbarowej/rabarbar = owej
+
+word = rabarbarowemu
+rabarbarowemu/mu = rabarbarowe
+rabarbarowemu/owemu = rabarbar
+rabarbarowemu/rabarbar = owemu
+rabarbarowemu/rabarbarowe = mu
+
+word = rabarbarowi
+rabarbarowi/owi = rabarbar
+rabarbarowi/rabarbar = owi
+
+word = rabarbarowy
+NO MATCHES
+
+word = rabarbarowych
+rabarbarowych/owych = rabarbar
+rabarb

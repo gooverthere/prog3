@@ -1,0 +1,345 @@
+word = yachcie
+NO MATCHES
+
+word = yacht
+NO MATCHES
+
+word = yachtach
+yachtach/yacht = ach
+
+word = yachtami
+NO MATCHES
+
+word = yachtem
+yachtem/em = yacht
+yachtem/yacht = em
+
+word = yachting
+NO MATCHES
+
+word = yachtingach
+yachtingach/yachting = ach
+
+word = yachtingami
+NO MATCHES
+
+word = yachtingi
+NO MATCHES
+
+word = yachtingiem
+yachtingiem/em = yachtingi
+yachtingiem/yachtingi = em
+
+word = yachtingom
+yachtingom/om = yachting
+yachtingom/yachting = om
+
+word = yachtingowi
+yachtingowi/owi = yachting
+yachtingowi/yachting = owi
+
+word = yachtingów
+yachtingów/ów = yachting
+yachtingów/yachting = ów
+
+word = yachtingu
+NO MATCHES
+
+word = yachtom
+yachtom/om = yacht
+yachtom/yacht = om
+
+word = yachtowi
+yachtowi/owi = yacht
+yachtowi/yacht = owi
+
+word = yachtów
+yachtów/ów = yacht
+yachtów/yacht = ów
+
+word = yachtu
+NO MATCHES
+
+word = yachty
+NO MATCHES
+
+word = yakuz
+NO MATCHES
+
+word = yakuza
+NO MATCHES
+
+word = yakuzach
+yakuzach/yakuz = ach
+
+word = yakuzami
+yakuzami/mi = yakuza
+yakuzami/yakuza = mi
+
+word = yakuzą
+NO MATCHES
+
+word = yakuzę
+NO MATCHES
+
+word = yakuzie
+NO MATCHES
+
+word = yakuzo
+NO MATCHES
+
+word = yakuzom
+yakuzom/om = yakuz
+yakuzom/yakuz = om
+
+word = yakuzowie
+yakuzowie/wie = yakuzo
+yakuzowie/yakuzo = wie
+
+word = yakuzów
+yakuzów/ów = yakuz
+yakuzów/yakuz = ów
+
+word = yakuzy
+NO MATCHES
+
+word = yale
+NO MATCHES
+
+word = yam
+NO MATCHES
+
+word = yamach
+yamach/yam = ach
+
+word = yamah
+NO MATCHES
+
+word = yamaha
+yamaha/yam = aha
+
+word = yamahach
+yamahach/ha = yamach
+yamahach/yamah = ach
+yamahach/yamach = ha
+
+word = yamahami
+yamahami/ha = yamami
+yamahami/yamaha = mi
+yamahami/yamami = ha
+
+word = yamahą
+NO MATCHES
+
+word = yamahę
+NO MATCHES
+
+word = yamaho
+NO MATCHES
+
+word = yamahom
+yamahom/om = yamah
+yamahom/yamah = om
+
+word = yamahy
+NO MATCHES
+
+word = yamami
+yamami/mai = yam
+
+word = yamasze
+NO MATCHES
+
+word = yamem
+yamem/me = yam
+yamem/em = yam
+yamem/yam = em
+
+word = yamie
+NO MATCHES
+
+word = yamom
+yamom/om = yam
+yamom/yam = om
+
+word = yamowi
+yamowi/yam = owi
+yamowi/owi = yam
+
+word = yamów
+yamów/ów = yam
+yamów/yam = ów
+
+word = yamu
+NO MATCHES
+
+word = yamy
+NO MATCHES
+
+word = yang
+NO MATCHES
+
+word = yard
+NO MATCHES
+
+word = yarda
+NO MATCHES
+
+word = yardach
+yardach/yard = ach
+
+word = yardami
+yardami/mi = yarda
+yardami/yarda = mi
+
+word = yardem
+yardem/em = yard
+yardem/yard = em
+
+word = yardom
+yardom/om = yard
+yardom/yard = om
+
+word = yardowi
+yardowi/owi = yard
+yardowi/yard = owi
+
+word = yardów
+yardów/ów = yard
+yardów/yard = ów
+
+word = yardu
+NO MATCHES
+
+word = yardy
+NO MATCHES
+
+word = yardzie
+NO MATCHES
+
+word = yarg
+NO MATCHES
+
+word = yargach
+yargach/yarg = ach
+
+word = yargami
+NO MATCHES
+
+word = yargi
+NO MATCHES
+
+word = yargiem
+yargiem/em = yargi
+yargiem/yargi = em
+
+word = yargom
+yargom/om = yarg
+yargom/yarg = om
+
+word = yargowi
+yargowi/owi = yarg
+yargowi/yarg = owi
+
+word = yargów
+yargów/ów = yarg
+yargów/yarg = ów
+
+word = yargu
+NO MATCHES
+
+word = yatren
+NO MATCHES
+
+word = yatrenach
+yatrenach/yatren = ach
+
+word = yatrenami
+NO MATCHES
+
+word = yatrenem
+yatrenem/yatren = em
+
+word = yatrenie
+NO MATCHES
+
+word = yatrenom
+yatrenom/om = yatren
+yatrenom/yatren = om
+
+word = yatrenowi
+yatrenowi/owi = yatren
+yatrenowi/yatren = owi
+
+word = yatrenów
+yatrenów/ów = yatren
+yatrenów/yatren = ów
+
+word = yatrenu
+NO MATCHES
+
+word = yatreny
+NO MATCHES
+
+word = yeoman
+NO MATCHES
+
+word = yeomana
+NO MATCHES
+
+word = yeomanach
+yeomanach/yeoman = ach
+
+word = yeomanami
+yeomanami/yeomana = mi
+
+word = yeomanem
+yeomanem/yeoman = em
+
+word = yeomanie
+NO MATCHES
+
+word = yeomanom
+yeomanom/yeoman = om
+
+word = yeomanowi
+yeomanowi/yeoman = owi
+
+word = yeomanowie
+NO MATCHES
+
+word = yeomanów
+yeomanów/ów = yeoman
+yeomanów/yeoman = ów
+
+word = yeomany
+NO MATCHES
+
+word = yeti
+NO MATCHES
+
+word = yggdrasill
+NO MATCHES
+
+word = yggdrasillach
+yggdrasillach/yggdrasill = ach
+
+word = yggdrasillami
+NO MATCHES
+
+word = yggdrasille
+NO MATCHES
+
+word = yggdrasillem
+yggdrasillem/em = yggdrasill
+yggdrasillem/yggdrasill = em
+
+word = yggdrasilli
+NO MATCHES
+
+word = yggdrasillom
+yggdrasillom/om = yggdrasill
+yggdrasillom/yggdrasill = om
+
+word = yggdrasillowi
+yggdrasillowi/owi = y

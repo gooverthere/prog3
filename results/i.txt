@@ -1,0 +1,187 @@
+word = ibadańscy
+ibadańscy/bada = ińscy
+ibadańscy/ińscy = bada
+
+word = ibadańska
+ibadańska/iska = badań
+ibadańska/bada = ińska
+ibadańska/ińska = bada
+ibadańska/badań = iska
+
+word = ibadańską
+ibadańską/bada = ińską
+ibadańską/ińską = bada
+
+word = ibadański
+ibadański/iski = badań
+ibadański/bada = iński
+ibadański/iński = bada
+ibadański/badań = iski
+
+word = ibadańskich
+ibadańskich/bada = ińskich
+ibadańskich/idach = bański
+ibadańskich/iński = badach
+ibadańskich/badach = iński
+ibadańskich/bański = idach
+ibadańskich/ińskich = bada
+
+word = ibadańskie
+ibadańskie/bada = ińskie
+ibadańskie/ińskie = bada
+
+word = ibadańskiego
+ibadańskiego/go = ibadańskie
+ibadańskiego/ego = ibadański
+ibadańskiego/bada = ińskiego
+ibadańskiego/ińskiego = bada
+ibadańskiego/ibadański = ego
+ibadańskiego/ibadańskie = go
+
+word = ibadańskiej
+ibadańskiej/ej = ibadański
+ibadańskiej/bada = ińskiej
+ibadańskiej/badaj = ińskie
+ibadańskiej/ińskie = badaj
+ibadańskiej/ińskiej = bada
+ibadańskiej/ibadański = ej
+
+word = ibadańskiemu
+ibadańskiemu/mu = ibadańskie
+ibadańskiemu/emu = ibadański
+ibadańskiemu/bada = ińskiemu
+ibadańskiemu/ińskiemu = bada
+ibadańskiemu/ibadański = emu
+ibadańskiemu/ibadańskie = mu
+
+word = ibadańskim
+ibadańskim/bada = ińskim
+ibadańskim/iński = badam
+ibadańskim/badam = iński
+ibadańskim/ińskim = bada
+
+word = ibadańskimi
+ibadańskimi/mi = ibadański
+ibadańskimi/bada = ińskimi
+ibadańskimi/idami = bański
+ibadańskimi/iński = badami
+ibadańskimi/badami = iński
+ibadańskimi/bański = idami
+ibadańskimi/ińskimi = bada
+ibadańskimi/ibadański = mi
+
+word = ibadańsku
+ibadańsku/isku = badań
+ibadańsku/bada = ińsku
+ibadańsku/ińsku = bada
+ibadańsku/badań = isku
+
+word = ibadyci
+NO MATCHES
+
+word = ibadycie
+ibadycie/idy = bacie
+ibadycie/bacie = idy
+
+word = ibadyta
+ibadyta/idy = bata
+ibadyta/bata = idy
+
+word = ibadytach
+ibadytach/idy = batach
+ibadytach/batach = idy
+
+word = ibadytami
+ibadytami/mi = ibadyta
+ibadytami/idy = batami
+ibadytami/batami = idy
+ibadytami/ibadyta = mi
+
+word = ibadytą
+NO MATCHES
+
+word = ibadytę
+NO MATCHES
+
+word = ibadyto
+NO MATCHES
+
+word = ibadytom
+ibadytom/idy = batom
+ibadytom/batom = idy
+
+word = ibadytów
+ibadytów/idy = batów
+ibadytów/batów = idy
+
+word = ibadyty
+ibadyty/idy = baty
+ibadyty/baty = idy
+
+word = ibeelowca
+ibeelowca/ee = iblowca
+ibeelowca/iblowca = ee
+
+word = ibeelowcach
+ibeelowcach/ee = iblowcach
+ibeelowcach/iblowcach = ee
+
+word = ibeelowcami
+ibeelowcami/mi = ibeelowca
+ibeelowcami/ee = iblowcami
+ibeelowcami/ibeelowca = mi
+ibeelowcami/iblowcami = ee
+
+word = ibeelowce
+ibeelowce/ee = iblowce
+ibeelowce/iblowce = ee
+
+word = ibeelowcem
+ibeelowcem/ee = iblowcem
+ibeelowcem/iblowcem = ee
+
+word = ibeelowcom
+ibeelowcom/ee = iblowcom
+ibeelowcom/iblowcom = ee
+
+word = ibeelowcowi
+ibeelowcowi/ee = iblowcowi
+ibeelowcowi/iblowcowi = ee
+
+word = ibeelowców
+ibeelowców/ee = iblowców
+ibeelowców/iblowców = ee
+
+word = ibeelowcu
+ibeelowcu/ee = iblowcu
+ibeelowcu/iblowcu = ee
+
+word = ibeelowcy
+ibeelowcy/ee = iblowcy
+ibeelowcy/iblowcy = ee
+
+word = ibeelowcze
+ibeelowcze/ee = iblowcze
+ibeelowcze/iblowcze = ee
+
+word = ibeelowiec
+ibeelowiec/ee = iblowiec
+ibeelowiec/iblowiec = ee
+
+word = ibeelowscy
+ibeelowscy/ee = iblowscy
+ibeelowscy/iblowscy = ee
+
+word = ibeelowska
+ibeelowska/ee = iblowska
+ibeelowska/iblowska = ee
+
+word = ibeelowską
+ibeelowską/ee = iblowską
+ibeelowską/iblowską = ee
+
+word = ibeelowski
+ibeelowski/ee = iblowski
+ibeelowski/iblowski = ee
+
+word = ibeelows

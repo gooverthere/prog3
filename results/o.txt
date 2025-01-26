@@ -1,0 +1,374 @@
+word = oasowca
+oasowca/os = aowca
+oasowca/aowca = os
+
+word = oasowcach
+oasowcach/os = aowcach
+oasowcach/aowcach = os
+
+word = oasowcami
+oasowcami/os = aowcami
+oasowcami/mi = oasowca
+oasowcami/oasowca = mi
+oasowcami/aowcami = os
+
+word = oasowce
+oasowce/os = aowce
+oasowce/aowce = os
+
+word = oasowcem
+oasowcem/os = aowcem
+oasowcem/osm = aowce
+oasowcem/owce = asom
+oasowcem/asom = owce
+oasowcem/aowce = osm
+oasowcem/aowcem = os
+
+word = oasowcom
+oasowcom/os = aowcom
+oasowcom/owco = asom
+oasowcom/asom = owco
+oasowcom/aowcom = os
+
+word = oasowcowi
+oasowcowi/os = aowcowi
+oasowcowi/owco = asowi
+oasowcowi/aowcowi = os
+
+word = oasowców
+oasowców/os = aowców
+oasowców/aowców = os
+
+word = oasowcu
+oasowcu/os = aowcu
+oasowcu/aowcu = os
+
+word = oasowcy
+oasowcy/os = aowcy
+oasowcy/aowcy = os
+
+word = oasowcze
+oasowcze/os = aowcze
+oasowcze/aowcze = os
+
+word = oasowiec
+oasowiec/os = aowiec
+oasowiec/aowiec = os
+
+word = oasowscy
+NO MATCHES
+
+word = oasowska
+NO MATCHES
+
+word = oasowską
+NO MATCHES
+
+word = oasowski
+NO MATCHES
+
+word = oasowskich
+NO MATCHES
+
+word = oasowskie
+NO MATCHES
+
+word = oasowskiego
+oasowskiego/go = oasowskie
+oasowskiego/ego = oasowski
+oasowskiego/oasowski = ego
+oasowskiego/oasowskie = go
+
+word = oasowskiej
+oasowskiej/ej = oasowski
+oasowskiej/oasowski = ej
+
+word = oasowskiemu
+oasowskiemu/mu = oasowskie
+oasowskiemu/emu = oasowski
+oasowskiemu/oasowski = emu
+oasowskiemu/oasowskie = mu
+
+word = oasowskim
+NO MATCHES
+
+word = oasowskimi
+oasowskimi/mi = oasowski
+oasowskimi/im = oasowski
+oasowskimi/oasowski = mi
+
+word = oasowsku
+NO MATCHES
+
+word = oaz
+NO MATCHES
+
+word = oaza
+NO MATCHES
+
+word = oazach
+oazach/oaz = ach
+
+word = oazami
+oazami/mi = oaza
+oazami/oaza = mi
+
+word = oazą
+NO MATCHES
+
+word = oazę
+NO MATCHES
+
+word = oazie
+NO MATCHES
+
+word = oazo
+NO MATCHES
+
+word = oazom
+oazom/oaz = om
+
+word = oazowa
+oazowa/oaz = owa
+
+word = oazową
+oazową/oaz = ową
+
+word = oazowca
+oazowca/oz = aowca
+oazowca/oaz = owca
+oazowca/aowca = oz
+
+word = oazowcach
+oazowcach/oz = aowcach
+oazowcach/oaz = owcach
+oazowcach/aowcach = oz
+
+word = oazowcami
+oazowcami/oz = aowcami
+oazowcami/mi = oazowca
+oazowcami/oaz = owcami
+oazowcami/oazowca = mi
+oazowcami/aowcami = oz
+
+word = oazowce
+oazowce/oz = aowce
+oazowce/oaz = owce
+oazowce/aowce = oz
+
+word = oazowcem
+oazowcem/oz = aowcem
+oazowcem/aowcem = oz
+
+word = oazowcom
+oazowcom/oz = aowcom
+oazowcom/oaz = owcom
+oazowcom/aowcom = oz
+
+word = oazowcowi
+oazowcowi/oz = aowcowi
+oazowcowi/owco = azowi
+oazowcowi/aowcowi = oz
+
+word = oazowców
+oazowców/oz = aowców
+oazowców/aowców = oz
+
+word = oazowcu
+oazowcu/oz = aowcu
+oazowcu/aowcu = oz
+
+word = oazowcy
+oazowcy/oz = aowcy
+oazowcy/oaz = owcy
+oazowcy/aowcy = oz
+
+word = oazowcze
+oazowcze/oz = aowcze
+oazowcze/oaz = owcze
+oazowcze/acz = ozowe
+oazowcze/ozowe = acz
+oazowcze/aowcze = oz
+
+word = oazowe
+oazowe/we = oazo
+oazowe/oaz = owe
+oazowe/oazo = we
+
+word = oazowego
+oazowego/go = oazowe
+oazowego/oaz = owego
+oazowego/ago = ozowe
+oazowego/ozowe = ago
+oazowego/oazowe = go
+
+word = oazowej
+oazowej/oj = azowe
+oazowej/aj = ozowe
+oazowej/oaz = owej
+oazowej/ozowe = aj
+oazowej/azowe = oj
+
+word = oazowemu
+oazowemu/mu = oazowe
+oazowemu/oaz = owemu
+oazowemu/oazowe = mu
+
+word = oazowi
+oazowi/oaz = owi
+
+word = oazowicz
+oazowicz/acz = ozowi
+oazowicz/ozowi = acz
+
+word = oazowicza
+NO MATCHES
+
+word = oazowiczach
+oazowiczach/czach = oazowi
+oazowiczach/azowi = oczach
+oazowiczach/oazowi = czach
+oazowiczach/oczach = azowi
+oazowiczach/oazowicz = ach
+
+word = oazowiczami
+oazowiczami/mi = oazowicza
+oazowiczami/azowi = oczami
+oazowiczami/oczami = azowi
+oazowiczami/oazowicza = mi
+
+word = oazowiczce
+oazowiczce/oazowicz = ce
+
+word = oazowicze
+oazowicze/cze = oazowi
+oazowicze/oazowi = cze
+
+word = oazowiczek
+oazowiczek/czek = oazowi
+oazowiczek/oczek = azowi
+oazowiczek/owcze = azoik
+oazowiczek/azoik = owcze
+oazowiczek/azowi = oczek
+oazowiczek/oazowi = czek
+
+word = oazowiczem
+oazowiczem/im = oazowcze
+oazowiczem/em = oazowicz
+oazowiczem/izm = oazowce
+oazowiczem/oazowce = izm
+oazowiczem/oazowcze = im
+oazowiczem/oazowicz = em
+
+word = oazowiczka
+oazowiczka/ka = oazowicz
+oazowiczka/czka = oazowi
+oazowiczka/oczka = azowi
+oazowiczka/owcza = azoik
+oazowiczka/azoik = owcza
+oazowiczka/azowi = oczka
+oazowiczka/oazowi = czka
+oazowiczka/oazowicz = ka
+
+word = oazowiczkach
+oazowiczkach/azowi = oczkach
+oazowiczkach/oczkach = azowi
+
+word = oazowiczkami
+oazowiczkami/mi = oazowiczka
+oazowiczkami/kami = oazowicz
+oazowiczkami/azowi = oczkami
+oazowiczkami/oczkami = azowi
+oazowiczkami/oazowicz = kami
+oazowiczkami/oazowiczka = mi
+
+word = oazowiczką
+oazowiczką/owczą = azoik
+oazowiczką/azoik = owczą
+
+word = oazowiczkę
+NO MATCHES
+
+word = oazowiczki
+oazowiczki/ki = oazowicz
+oazowiczki/oczki = azowi
+oazowiczki/azowi = oczki
+oazowiczki/oazowicz = ki
+
+word = oazowiczko
+oazowiczko/ko = oazowicz
+oazowiczko/oczko = azowi
+oazowiczko/azowi = oczko
+oazowiczko/oazowicz = ko
+
+word = oazowiczkom
+oazowiczkom/kom = oazowicz
+oazowiczkom/azowi = oczkom
+oazowiczkom/oczkom = azowi
+oazowiczkom/oazowicz = kom
+
+word = oazowiczom
+oazowiczom/oczom = azowi
+oazowiczom/azowi = oczom
+oazowiczom/oazowicz = om
+
+word = oazowiczowi
+oazowiczowi/oazowicz = owi
+
+word = oazowiczów
+oazowiczów/ów = oazowicz
+oazowiczów/oczów = azowi
+oazowiczów/azowi = oczów
+oazowiczów/oazowicz = ów
+
+word = oazowiczu
+oazowiczu/oczu = azowi
+oazowiczu/azowi = oczu
+
+word = oazowiec
+oazowiec/oz = aowiec
+oazowiec/oaz = owiec
+oazowiec/wiec = oazo
+oazowiec/oazo = wiec
+oazowiec/aowiec = oz
+
+word = oazowy
+oazowy/wy = oazo
+oazowy/oazo = wy
+
+word = oazowych
+oazowych/oaz = owych
+oazowych/och = azowy
+oazowych/ach = ozowy
+oazowych/ozowy = ach
+oazowych/azowy = och
+
+word = oazowym
+oazowym/wy = oazom
+oazowym/om = azowy
+oazowym/oaz = owym
+oazowym/oazom = wy
+oazowym/azowy = om
+
+word = oazowymi
+oazowymi/mi = oazowy
+oazowymi/oaz = owymi
+oazowymi/oazowy = mi
+
+word = oazówce
+NO MATCHES
+
+word = oazówek
+NO MATCHES
+
+word = oazówka
+NO MATCHES
+
+word = oazówkach
+NO MATCHES
+
+word = oazówkami
+oazówkami/mi = oazówka
+oazówkami/oazówka = mi
+
+word = 

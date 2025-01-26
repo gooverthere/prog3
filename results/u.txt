@@ -1,0 +1,41 @@
+word = uabain
+NO MATCHES
+
+word = uabaina
+NO MATCHES
+
+word = uabainach
+uabainach/uabain = ach
+
+word = uabainami
+uabainami/mi = uabaina
+uabainami/uabaina = mi
+
+word = uabainą
+NO MATCHES
+
+word = uabainę
+NO MATCHES
+
+word = uabainie
+NO MATCHES
+
+word = uabaino
+NO MATCHES
+
+word = uabainom
+uabainom/om = uabain
+uabainom/uabain = om
+
+word = uabainy
+NO MATCHES
+
+word = uabstrakcyjni
+NO MATCHES
+
+word = uabstrakcyjnia
+uabstrakcyjnia/unia = abstrakcyj
+uabstrakcyjnia/abstrakcyj = unia
+
+word = uabstrakcyjniać
+NO MATCHES

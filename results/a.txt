@@ -1,0 +1,197 @@
+word = aaa
+NO MATCHES
+
+word = abace
+NO MATCHES
+
+word = abaci
+NO MATCHES
+
+word = abacie
+abacie/ba = acie
+abacie/acie = ba
+
+word = abadańscy
+NO MATCHES
+
+word = abadańska
+NO MATCHES
+
+word = abadańską
+NO MATCHES
+
+word = abadański
+NO MATCHES
+
+word = abadańskich
+NO MATCHES
+
+word = abadańskie
+NO MATCHES
+
+word = abadańskiego
+abadańskiego/go = abadańskie
+abadańskiego/ego = abadański
+abadańskiego/abadański = ego
+abadańskiego/abadańskie = go
+
+word = abadańskiej
+abadańskiej/ej = abadański
+abadańskiej/abadański = ej
+
+word = abadańskiemu
+abadańskiemu/mu = abadańskie
+abadańskiemu/emu = abadański
+abadańskiemu/abadański = emu
+abadańskiemu/abadańskie = mu
+
+word = abadańskim
+NO MATCHES
+
+word = abadańskimi
+abadańskimi/mi = abadański
+abadańskimi/im = abadański
+abadańskimi/abadański = mi
+
+word = abadańsku
+NO MATCHES
+
+word = abak
+NO MATCHES
+
+word = abaka
+NO MATCHES
+
+word = abakach
+abakach/ach = baka
+abakach/baka = ach
+abakach/abak = ach
+
+word = abakami
+abakami/mi = abaka
+abakami/abaka = mi
+
+word = abakan
+NO MATCHES
+
+word = abakanach
+abakanach/na = abakach
+abakanach/ana = bakach
+abakanach/bakach = ana
+abakanach/abakan = ach
+abakanach/abakach = na
+
+word = abakanami
+abakanami/na = abakami
+abakanami/ana = bakami
+abakanami/nami = abaka
+abakanami/abaka = nami
+abakanami/bakami = ana
+abakanami/abakami = na
+
+word = abakance
+abakance/ce = abakan
+abakance/kan = abace
+abakance/abace = kan
+abakance/abakan = ce
+
+word = abakanek
+NO MATCHES
+
+word = abakanem
+abakanem/em = abakan
+abakanem/nem = abaka
+abakanem/abaka = nem
+abakanem/abakan = em
+
+word = abakanie
+abakanie/ba = akanie
+abakanie/nie = abaka
+abakanie/abaka = nie
+abakanie/akanie = ba
+
+word = abakanka
+abakanka/kan = abaka
+abakanka/kana = abak
+abakanka/abakan = ka
+
+word = abakankach
+abakankach/kan = abakach
+abakankach/kanach = abak
+
+word = abakankami
+abakankami/mi = abakanka
+abakankami/kan = abakami
+abakankami/kanami = abak
+abakankami/abakan = kami
+abakankami/abakanka = mi
+
+word = abakanką
+abakanką/kan = abaką
+abakanką/kaną = abak
+
+word = abakankę
+abakankę/kan = abakę
+abakankę/kanę = abak
+
+word = abakanki
+abakanki/kan = abaki
+abakanki/kani = abak
+abakanki/abakan = ki
+
+word = abakanko
+abakanko/kan = abako
+abakanko/kano = abak
+abakanko/abakan = ko
+
+word = abakankom
+abakankom/kan = abakom
+abakankom/kanom = abak
+abakankom/abakan = kom
+
+word = abakanom
+abakanom/om = abakan
+abakanom/nom = abaka
+abakanom/abaka = nom
+abakanom/abakan = om
+
+word = abakanowi
+abakanowi/owi = abakan
+abakanowi/nowi = abaka
+abakanowi/abaka = nowi
+abakanowi/abakan = owi
+
+word = abakanów
+abakanów/ów = abakan
+abakanów/nów = abaka
+abakanów/abaka = nów
+abakanów/abakan = ów
+
+word = abakanu
+abakanu/nu = abaka
+abakanu/au = bakan
+abakanu/bakan = au
+abakanu/abaka = nu
+
+word = abakany
+abakany/ny = abaka
+abakany/abaka = ny
+
+word = abakańczycy
+NO MATCHES
+
+word = abakańczyk
+NO MATCHES
+
+word = abakańczyka
+NO MATCHES
+
+word = abakańczykach
+abakańczykach/abakańczyk = ach
+
+word = abakańczykami
+abakańczykami/mi = abakańczyka
+abakańczykami/abakańczyka = mi
+
+word = abakańczyki
+NO MATCHE

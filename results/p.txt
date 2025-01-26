@@ -1,0 +1,79 @@
+word = pa
+NO MATCHES
+
+word = pabialgin
+NO MATCHES
+
+word = pabialgina
+NO MATCHES
+
+word = pabialginach
+pabialginach/pabialgin = ach
+
+word = pabialginami
+pabialginami/mi = pabialgina
+pabialginami/pabialgina = mi
+
+word = pabialginą
+NO MATCHES
+
+word = pabialginę
+NO MATCHES
+
+word = pabialginie
+NO MATCHES
+
+word = pabialgino
+NO MATCHES
+
+word = pabialginom
+pabialginom/om = pabialgin
+pabialginom/pabialgin = om
+
+word = pabialginy
+NO MATCHES
+
+word = pabiamid
+NO MATCHES
+
+word = pabiamidach
+pabiamidach/pabiamid = ach
+
+word = pabiamidami
+NO MATCHES
+
+word = pabiamidem
+pabiamidem/em = pabiamid
+pabiamidem/pabiamid = em
+
+word = pabiamidom
+pabiamidom/om = pabiamid
+pabiamidom/pabiamid = om
+
+word = pabiamidowi
+pabiamidowi/owi = pabiamid
+pabiamidowi/pabiamid = owi
+
+word = pabiamidów
+pabiamidów/ów = pabiamid
+pabiamidów/pabiamid = ów
+
+word = pabiamidu
+NO MATCHES
+
+word = pabiamidy
+NO MATCHES
+
+word = pabiamidzie
+NO MATCHES
+
+word = pabianiccy
+NO MATCHES
+
+word = pabianicka
+NO MATCHES
+
+word = pabianicką
+NO MATCHES
+
+word = pabianic

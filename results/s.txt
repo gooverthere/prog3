@@ -1,0 +1,394 @@
+word = saab
+NO MATCHES
+
+word = saaba
+NO MATCHES
+
+word = saabach
+saabach/saab = ach
+
+word = saabami
+saabami/mi = saaba
+saabami/saaba = mi
+
+word = saabem
+saabem/em = saab
+saabem/saab = em
+
+word = saabie
+NO MATCHES
+
+word = saabom
+saabom/om = saab
+saabom/sam = abo
+saabom/abo = sam
+saabom/saab = om
+
+word = saabowi
+saabowi/owi = saab
+saabowi/saab = owi
+
+word = saabów
+saabów/ów = saab
+saabów/saab = ów
+
+word = saaby
+NO MATCHES
+
+word = sabacie
+sabacie/se = abaci
+sabacie/si = abace
+sabacie/abace = si
+sabacie/abaci = se
+
+word = sabadyl
+sabadyl/sal = bady
+sabadyl/bal = sady
+sabadyl/sady = bal
+sabadyl/bady = sal
+
+word = sabadyla
+sabadyla/sady = bala
+sabadyla/sala = bady
+sabadyla/bady = sala
+sabadyla/bala = sady
+
+word = sabadylach
+sabadylach/sady = balach
+sabadylach/dych = sabala
+sabadylach/bady = salach
+sabadylach/sabala = dych
+sabadylach/salach = bady
+sabadylach/balach = sady
+sabadylach/sabadyl = ach
+
+word = sabadylami
+sabadylami/mi = sabadyla
+sabadylami/sady = balami
+sabadylami/sami = badyla
+sabadylami/dymi = sabala
+sabadylami/bady = salami
+sabadylami/sabala = dymi
+sabadylami/salami = bady
+sabadylami/badyla = sami
+sabadylami/balami = sady
+sabadylami/sabadyla = mi
+
+word = sabadylą
+sabadylą/salą = bady
+sabadylą/bady = salą
+
+word = sabadyle
+sabadyle/aby = sadle
+sabadyle/sady = bale
+sabadyle/sale = bady
+sabadyle/bady = sale
+sabadyle/bale = sady
+
+word = sabadylem
+sabadylem/em = sabadyl
+sabadylem/sam = badyle
+sabadylem/dym = sabale
+sabadylem/sady = balem
+sabadylem/bady = salem
+sabadylem/abym = sadle
+sabadylem/salem = bady
+sabadylem/balem = sady
+sabadylem/sabale = dym
+sabadylem/badyle = sam
+sabadylem/sabadyl = em
+
+word = sabadylę
+sabadylę/salę = bady
+sabadylę/bady = salę
+
+word = sabadyli
+sabadyli/sady = bali
+sabadyli/sali = bady
+sabadyli/bady = sali
+sabadyli/bali = sady
+
+word = sabadylo
+sabadylo/salo = bady
+sabadylo/bady = salo
+
+word = sabadylom
+sabadylom/om = sabadyl
+sabadylom/sady = balom
+sabadylom/bady = salom
+sabadylom/salom = bady
+sabadylom/balom = sady
+sabadylom/sabadyl = om
+
+word = sabadylowa
+sabadylowa/owa = sabadyl
+sabadylowa/sady = balowa
+sabadylowa/bady = salowa
+sabadylowa/salowa = bady
+sabadylowa/balowa = sady
+sabadylowa/sabadyl = owa
+
+word = sabadylową
+sabadylową/ową = sabadyl
+sabadylową/sady = balową
+sabadylową/bady = salową
+sabadylową/salową = bady
+sabadylową/balową = sady
+sabadylową/sabadyl = ową
+
+word = sabadylowe
+sabadylowe/we = sabadylo
+sabadylowe/owe = sabadyl
+sabadylowe/sady = balowe
+sabadylowe/bady = salowe
+sabadylowe/salowe = bady
+sabadylowe/balowe = sady
+sabadylowe/sabadyl = owe
+sabadylowe/sabadylo = we
+
+word = sabadylowego
+sabadylowego/go = sabadylowe
+sabadylowego/sady = balowego
+sabadylowego/bady = salowego
+sabadylowego/owego = sabadyl
+sabadylowego/sabadyl = owego
+sabadylowego/salowego = bady
+sabadylowego/balowego = sady
+sabadylowego/sabadylowe = go
+
+word = sabadylowej
+sabadylowej/sady = balowej
+sabadylowej/owej = sabadyl
+sabadylowej/bady = salowej
+sabadylowej/sabadyl = owej
+sabadylowej/salowej = bady
+sabadylowej/balowej = sady
+
+word = sabadylowemu
+sabadylowemu/mu = sabadylowe
+sabadylowemu/sady = balowemu
+sabadylowemu/dymu = sabalowe
+sabadylowemu/bady = salowemu
+sabadylowemu/owemu = sabadyl
+sabadylowemu/sabadyl = owemu
+sabadylowemu/sabalowe = dymu
+sabadylowemu/salowemu = bady
+sabadylowemu/balowemu = sady
+sabadylowemu/sabadylowe = mu
+
+word = sabadylowi
+sabadylowi/owi = sabadyl
+sabadylowi/sady = balowi
+sabadylowi/bady = salowi
+sabadylowi/salowi = bady
+sabadylowi/balowi = sady
+sabadylowi/sabadyl = owi
+
+word = sabadylowy
+sabadylowy/wy = sabadylo
+sabadylowy/sady = balowy
+sabadylowy/bady = salowy
+sabadylowy/salowy = bady
+sabadylowy/balowy = sady
+sabadylowy/sabadylo = wy
+
+word = sabadylowych
+sabadylowych/sady = balowych
+sabadylowych/dych = sabalowy
+sabadylowych/bady = salowych
+sabadylowych/owych = sabadyl
+sabadylowych/sabadyl = owych
+sabadylowych/sabalowy = dych
+sabadylowych/salowych = bady
+sabadylowych/balowych = sady
+
+word = sabadylowym
+sabadylowym/wy = sabadylom
+sabadylowym/dym = sabalowy
+sabadylowym/sady = balowym
+sabadylowym/owym = sabadyl
+sabadylowym/bady = salowym
+sabadylowym/sabadyl = owym
+sabadylowym/salowym = bady
+sabadylowym/balowym = sady
+sabadylowym/sabalowy = dym
+sabadylowym/sabadylom = wy
+
+word = sabadylowymi
+sabadylowymi/mi = sabadylowy
+sabadylowymi/sady = balowymi
+sabadylowymi/owym = sabadyli
+sabadylowymi/dymi = sabalowy
+sabadylowymi/bady = salowymi
+sabadylowymi/owymi = sabadyl
+sabadylowymi/sabadyl = owymi
+sabadylowymi/sabadyli = owym
+sabadylowymi/sabalowy = dymi
+sabadylowymi/salowymi = bady
+sabadylowymi/balowymi = sady
+sabadylowymi/sabadylowy = mi
+
+word = sabadylu
+sabadylu/sady = balu
+sabadylu/balu = sady
+
+word = sabal
+sabal/ba = sal
+sabal/sal = ba
+
+word = sabala
+sabala/ba = sala
+sabala/sala = ba
+
+word = sabalach
+sabalach/ba = salach
+sabalach/sala = bach
+sabalach/bach = sala
+sabalach/sabal = ach
+sabalach/salach = ba
+
+word = sabalami
+sabalami/mi = sabala
+sabalami/ba = salami
+sabalami/bai = salam
+sabalami/sami = bala
+sabalami/bala = sami
+sabalami/salam = bai
+sabalami/sabala = mi
+sabalami/salami = ba
+
+word = sabale
+sabale/ba = sale
+sabale/sale = ba
+
+word = sabalem
+sabalem/em = sabal
+sabalem/ba = salem
+sabalem/sam = bale
+sabalem/bam = sale
+sabalem/sale = bam
+sabalem/bale = sam
+sabalem/sabal = em
+sabalem/salem = ba
+
+word = sabali
+sabali/ba = sali
+sabali/sal = bai
+sabali/bai = sal
+sabali/sali = ba
+
+word = sabalom
+sabalom/om = sabal
+sabalom/ba = salom
+sabalom/bam = salo
+sabalom/salo = bam
+sabalom/sabal = om
+sabalom/salom = ba
+
+word = sabalowa
+sabalowa/ba = salowa
+sabalowa/owa = sabal
+sabalowa/abo = salwa
+sabalowa/sabal = owa
+sabalowa/salowa = ba
+
+word = sabalową
+sabalową/ba = salową
+sabalową/ową = sabal
+sabalową/abo = salwą
+sabalową/sabal = ową
+sabalową/salową = ba
+
+word = sabalowe
+sabalowe/ba = salowe
+sabalowe/owe = sabal
+sabalowe/sabal = owe
+sabalowe/salowe = ba
+
+word = sabalowego
+sabalowego/go = sabalowe
+sabalowego/ba = salowego
+sabalowego/sago = balowe
+sabalowego/sabal = owego
+sabalowego/owego = sabal
+sabalowego/balowe = sago
+sabalowego/sabalowe = go
+sabalowego/salowego = ba
+
+word = sabalowej
+sabalowej/ba = salowej
+sabalowej/baj = salowe
+sabalowej/owej = sabal
+sabalowej/sabal = owej
+sabalowej/salowe = baj
+sabalowej/salowej = ba
+
+word = sabalowemu
+sabalowemu/mu = sabalowe
+sabalowemu/ba = salowemu
+sabalowemu/samu = balowe
+sabalowemu/sabal = owemu
+sabalowemu/owemu = sabal
+sabalowemu/balowe = samu
+sabalowemu/sabalowe = mu
+sabalowemu/salowemu = ba
+
+word = sabalowi
+sabalowi/ba = salowi
+sabalowi/owi = sabal
+sabalowi/salo = bawi
+sabalowi/bawi = salo
+sabalowi/sabal = owi
+sabalowi/salowi = ba
+
+word = sabalowy
+sabalowy/ba = salowy
+sabalowy/abo = salwy
+sabalowy/salowy = ba
+
+word = sabalowych
+sabalowych/ba = salowych
+sabalowych/bach = salowy
+sabalowych/sabal = owych
+sabalowych/owych = sabal
+sabalowych/salowy = bach
+sabalowych/salowych = ba
+
+word = sabalowym
+sabalowym/wy = sabalom
+sabalowym/ba = salowym
+sabalowym/sam = balowy
+sabalowym/bam = salowy
+sabalowym/owym = sabal
+sabalowym/sabal = owym
+sabalowym/salowy = bam
+sabalowym/balowy = sam
+sabalowym/sabalom = wy
+sabalowym/salowym = ba
+
+word = sabalowymi
+sabalowymi/mi = sabalowy
+sabalowymi/ba = salowymi
+sabalowymi/bai = salowym
+sabalowymi/sami = balowy
+sabalowymi/owym = sabali
+sabalowymi/abym = salowi
+sabalowymi/sabal = owymi
+sabalowymi/owymi = sabal
+sabalowymi/sabali = owym
+sabalowymi/balowy = sami
+sabalowymi/salowym = bai
+sabalowymi/sabalowy = mi
+sabalowymi/salowymi = ba
+
+word = sabalów
+sabalów/ów = sabal
+sabalów/sabal = ów
+
+word = sabalu
+NO MATCHES
+
+word = sabałowa
+NO MATCHES
+
+word = sabałow

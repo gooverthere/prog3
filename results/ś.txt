@@ -1,0 +1,247 @@
+word = śakti
+NO MATCHES
+
+word = ścian
+NO MATCHES
+
+word = ściana
+NO MATCHES
+
+word = ścianach
+ścianach/ach = ścina
+ścianach/ścian = ach
+ścianach/ścina = ach
+
+word = ścianami
+ścianami/mi = ściana
+ścianami/ściana = mi
+
+word = ścianą
+NO MATCHES
+
+word = ściance
+ściance/ścian = ce
+
+word = ścianek
+NO MATCHES
+
+word = ścianę
+NO MATCHES
+
+word = ścianie
+NO MATCHES
+
+word = ścianka
+ścianka/ka = ścian
+ścianka/ścian = ka
+
+word = ściankach
+ściankach/ach = ścinka
+ściankach/ścinka = ach
+
+word = ściankami
+ściankami/mi = ścianka
+ściankami/kami = ścian
+ściankami/ścian = kami
+ściankami/ścianka = mi
+
+word = ścianką
+NO MATCHES
+
+word = ściankę
+NO MATCHES
+
+word = ścianki
+ścianki/ki = ścian
+ścianki/ścian = ki
+
+word = ścianko
+ścianko/ko = ścian
+ścianko/ścian = ko
+
+word = ściankom
+ściankom/kom = ścian
+ściankom/ścian = kom
+
+word = ściano
+NO MATCHES
+
+word = ścianom
+ścianom/om = ścian
+ścianom/ścian = om
+
+word = ścianowa
+ścianowa/owa = ścian
+ścianowa/ścian = owa
+
+word = ścianową
+ścianową/ową = ścian
+ścianową/ścian = ową
+
+word = ścianowca
+ścianowca/owca = ścian
+ścianowca/ścian = owca
+
+word = ścianowcach
+ścianowcach/ścian = owcach
+ścianowcach/owcach = ścian
+
+word = ścianowcami
+ścianowcami/mi = ścianowca
+ścianowcami/ścian = owcami
+ścianowcami/owcami = ścian
+ścianowcami/ścianowca = mi
+
+word = ścianowce
+ścianowce/owce = ścian
+ścianowce/ścian = owce
+
+word = ścianowcem
+NO MATCHES
+
+word = ścianowcom
+ścianowcom/owcom = ścian
+ścianowcom/ścian = owcom
+
+word = ścianowcowi
+NO MATCHES
+
+word = ścianowców
+NO MATCHES
+
+word = ścianowcu
+NO MATCHES
+
+word = ścianowcy
+ścianowcy/owcy = ścian
+ścianowcy/ścian = owcy
+
+word = ścianowcze
+ścianowcze/owcze = ścian
+ścianowcze/ścian = owcze
+
+word = ścianowe
+ścianowe/we = ściano
+ścianowe/owe = ścian
+ścianowe/ścian = owe
+ścianowe/ściano = we
+
+word = ścianowego
+ścianowego/go = ścianowe
+ścianowego/owego = ścian
+ścianowego/ścian = owego
+ścianowego/ścianowe = go
+
+word = ścianowej
+ścianowej/owej = ścian
+ścianowej/ścian = owej
+
+word = ścianowemu
+ścianowemu/mu = ścianowe
+ścianowemu/owemu = ścian
+ścianowemu/ścian = owemu
+ścianowemu/ścianowe = mu
+
+word = ścianowi
+ścianowi/owi = ścian
+ścianowi/ścian = owi
+
+word = ścianowiec
+ścianowiec/wiec = ściano
+ścianowiec/owiec = ścian
+ścianowiec/ścian = owiec
+ścianowiec/ściano = wiec
+
+word = ścianowy
+ścianowy/wy = ściano
+ścianowy/ściano = wy
+
+word = ścianowych
+ścianowych/owych = ścian
+ścianowych/ścian = owych
+
+word = ścianowym
+ścianowym/wy = ścianom
+ścianowym/owym = ścian
+ścianowym/ścian = owym
+ścianowym/ścianom = wy
+
+word = ścianowymi
+ścianowymi/mi = ścianowy
+ścianowymi/owymi = ścian
+ścianowymi/ścian = owymi
+ścianowymi/ścianowy = mi
+
+word = ściany
+NO MATCHES
+
+word = ściąć
+NO MATCHES
+
+word = ściądze
+NO MATCHES
+
+word = ściąg
+NO MATCHES
+
+word = ściąga
+NO MATCHES
+
+word = ściągach
+ściągach/ach = ściąg
+ściągach/ściąg = ach
+
+word = ściągacie
+ściągacie/acie = ściąg
+ściągacie/ściąg = acie
+ściągacie/ściąga = cie
+
+word = ściągacz
+ściągacz/acz = ściąg
+ściągacz/ściąg = acz
+
+word = ściągacza
+ściągacza/acz = ściąga
+
+word = ściągaczach
+ściągaczach/acz = ściągach
+ściągaczach/ściąga = czach
+ściągaczach/ściągacz = ach
+
+word = ściągaczami
+ściągaczami/mi = ściągacza
+ściągaczami/acz = ściągami
+ściągaczami/ściągam = czai
+ściągaczami/ściągacza = mi
+
+word = ściągaczce
+ściągaczce/ściągacz = ce
+
+word = ściągacze
+ściągacze/ściąga = cze
+
+word = ściągaczek
+ściągaczek/ściąga = czek
+
+word = ściągaczem
+ściągaczem/em = ściągacz
+ściągaczem/ściągam = cze
+ściągaczem/ściągacz = em
+
+word = ściągaczka
+ściągaczka/ka = ściągacz
+ściągaczka/ściąga = czka
+ściągaczka/ściągacz = ka
+
+word = ściągaczkach
+NO MATCHES
+
+word = ściągaczkami
+ściągaczkami/mi = ściągaczka
+ściągaczkami/kami = ściągacz
+ściągaczkami/ściągacz = kami
+ściągaczkami/ściągami = czka
+ściągaczkami/ściągaczka = mi
+
+word = ściągaczką
+NO MATCHES

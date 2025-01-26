@@ -1,0 +1,95 @@
+word = łab
+NO MATCHES
+
+word = łaba
+NO MATCHES
+
+word = łabach
+łabach/ba = łach
+łabach/ach = łba
+łabach/łab = ach
+łabach/łba = ach
+łabach/łach = ba
+
+word = łabami
+łabami/mi = łaba
+łabami/bai = łam
+łabami/łam = bai
+łabami/łaba = mi
+
+word = łabą
+NO MATCHES
+
+word = łabę
+NO MATCHES
+
+word = łabędzcy
+NO MATCHES
+
+word = łabędzi
+NO MATCHES
+
+word = łabędzia
+NO MATCHES
+
+word = łabędziach
+łabędziach/łabędzi = ach
+
+word = łabędziami
+łabędziami/mi = łabędzia
+łabędziami/łabędzia = mi
+
+word = łabędziarni
+łabędziarni/łabędzi = arni
+
+word = łabędziarnia
+NO MATCHES
+
+word = łabędziarniach
+łabędziarniach/łabędziarni = ach
+
+word = łabędziarniami
+łabędziarniami/mi = łabędziarnia
+łabędziarniami/łabędziarnia = mi
+
+word = łabędziarnią
+łabędziarnią/łabędzią = arni
+
+word = łabędziarnie
+łabędziarnie/łabędzie = arni
+
+word = łabędziarnię
+NO MATCHES
+
+word = łabędziarnio
+NO MATCHES
+
+word = łabędziarniom
+łabędziarniom/om = łabędziarni
+łabędziarniom/łabędziom = arni
+łabędziarniom/łabędziarni = om
+
+word = łabędziarń
+NO MATCHES
+
+word = łabędzią
+łabędzią/będą = łazi
+łabędzią/łazi = będą
+
+word = łabędziątek
+łabędziątek/tek = łabędzią
+łabędziątek/łabędzią = tek
+
+word = łabędziątka
+łabędziątka/tka = łabędzią
+łabędziątka/łabędzią = tka
+
+word = łabędziątkach
+NO MATCHES
+
+word = łabędziątkami
+łabędziątkami/mi = łabędziątka
+łabędziątkami/łabędziątka = mi
+
+word = łabędziątkiem
+NO MATCHE

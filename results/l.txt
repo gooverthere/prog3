@@ -1,0 +1,219 @@
+word = la
+NO MATCHES
+
+word = laari
+laari/ar = lai
+laari/lai = ar
+
+word = lab
+NO MATCHES
+
+word = laba
+laba/la = ba
+laba/ba = la
+
+word = labach
+labach/la = bach
+labach/ba = lach
+labach/lab = ach
+labach/lach = ba
+labach/bach = la
+
+word = labami
+labami/mi = laba
+labami/lai = bam
+labami/lam = bai
+labami/bai = lam
+labami/bam = lai
+labami/laba = mi
+
+word = labanotacja
+labanotacja/laba = notacja
+labanotacja/notacja = laba
+
+word = labanotacjach
+labanotacjach/laba = notacjach
+labanotacjach/notacja = labach
+labanotacjach/notacjach = laba
+
+word = labanotacjami
+labanotacjami/mi = labanotacja
+labanotacjami/laba = notacjami
+labanotacjami/labami = notacja
+labanotacjami/notacja = labami
+labanotacjami/notacjami = laba
+labanotacjami/labanotacja = mi
+
+word = labanotacją
+labanotacją/laba = notacją
+labanotacją/notacją = laba
+
+word = labanotacje
+labanotacje/laba = notacje
+labanotacje/notacje = laba
+
+word = labanotację
+labanotację/laba = notację
+labanotację/notację = laba
+
+word = labanotacji
+labanotacji/laba = notacji
+labanotacji/notacji = laba
+
+word = labanotacjo
+labanotacjo/laba = notacjo
+labanotacjo/notacjo = laba
+
+word = labanotacjom
+labanotacjom/laba = notacjom
+labanotacjom/notacjom = laba
+
+word = labanotacyj
+labanotacyj/laba = notacyj
+labanotacyj/notacyj = laba
+
+word = labara
+labara/la = bara
+labara/ba = lara
+labara/lab = ara
+labara/lara = ba
+labara/bara = la
+
+word = labarach
+labarach/la = barach
+labarach/ba = larach
+labarach/lab = arach
+labarach/lach = bara
+labarach/lara = bach
+labarach/bach = lara
+labarach/bara = lach
+labarach/larach = ba
+labarach/barach = la
+
+word = labarami
+labarami/mi = labara
+labarami/la = barami
+labarami/ba = larami
+labarami/lab = arami
+labarami/rami = laba
+labarami/laba = rami
+labarami/laari = bam
+labarami/labara = mi
+labarami/larami = ba
+labarami/barami = la
+
+word = labarom
+labarom/la = barom
+labarom/ba = larom
+labarom/lab = arom
+labarom/labom = ar
+labarom/larom = ba
+labarom/barom = la
+
+word = labarów
+labarów/la = barów
+labarów/ba = larów
+labarów/rów = laba
+labarów/lab = arów
+labarów/laba = rów
+labarów/larów = ba
+labarów/barów = la
+
+word = labarum
+labarum/ba = larum
+labarum/rum = laba
+labarum/lam = baru
+labarum/laba = rum
+labarum/baru = lam
+labarum/larum = ba
+
+word = labą
+NO MATCHES
+
+word = labe
+labe/la = be
+labe/be = la
+
+word = labecie
+labecie/la = becie
+labecie/lab = ecie
+labecie/lai = bece
+labecie/cie = labe
+labecie/labe = cie
+labecie/ecie = lab
+labecie/bece = lai
+labecie/becie = la
+
+word = labeling
+labeling/lab = eling
+labeling/labe = ling
+labeling/eling = lab
+
+word = labelingach
+labelingach/lab = elingach
+labelingach/labe = lingach
+labelingach/eling = labach
+labelingach/labach = eling
+labelingach/labeling = ach
+labelingach/elingach = lab
+
+word = labelingami
+labelingami/lab = elingami
+labelingami/labe = lingami
+labelingami/eling = labami
+labelingami/labami = eling
+labelingami/elingami = lab
+
+word = labelingi
+labelingi/lab = elingi
+labelingi/labe = lingi
+labelingi/elingi = lab
+
+word = labelingiem
+labelingiem/lab = elingiem
+labelingiem/elingiem = lab
+labelingiem/labelingi = em
+
+word = labelingom
+labelingom/om = labeling
+labelingom/lab = elingom
+labelingom/labe = lingom
+labelingom/labom = eling
+labelingom/eling = labom
+labelingom/elingom = lab
+labelingom/labeling = om
+
+word = labelingowi
+labelingowi/owi = labeling
+labelingowi/lab = elingowi
+labelingowi/labeling = owi
+labelingowi/elingowi = lab
+
+word = labelingów
+labelingów/ów = labeling
+labelingów/lab = elingów
+labelingów/elingów = lab
+labelingów/labeling = ów
+
+word = labelingu
+labelingu/lab = elingu
+labelingu/elingu = lab
+
+word = labelista
+labelista/labe = lista
+labelista/leli = absta
+labelista/abst = lelia
+labelista/labet = lisa
+labelista/lelia = abst
+labelista/absta = leli
+labelista/labeta = lis
+
+word = labelistach
+labelistach/labe = listach
+labelistach/leli = abstach
+labelistach/abst = leliach
+labelistach/labet = lisach
+labelistach/leliach = abst
+labelistach/abstach = leli
+labelistach/labetach = lis
+
